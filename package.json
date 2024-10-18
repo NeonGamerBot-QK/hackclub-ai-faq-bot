@@ -1,0 +1,16 @@
+{
+  "name": "hackclub-ai-faq-bot",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.68.0"
+  }
+}
