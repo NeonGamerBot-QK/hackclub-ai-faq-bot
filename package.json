@@ -8,6 +8,10 @@
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "create-ai": "bun run src/create_ai.ts"
+  },
   "dependencies": {
     "@slack/bolt": "^4.0.0",
     "dotenv": "^16.4.5",
