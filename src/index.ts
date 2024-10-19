@@ -17,8 +17,9 @@ if (!aiID) {
 }
 app.event("message", async (par) => {
   console.debug("#message0")
-  if(par.ack) par.ack()
-  if (par.event.subtype) return;
+  //@ts-expect-error
+  if(par.ack) par.ack()
+    if (par.event.subtype) return;
 
   if (par.event.bot_profile) return;
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
