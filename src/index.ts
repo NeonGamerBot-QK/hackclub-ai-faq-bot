@@ -27,7 +27,9 @@ app.event("message", async (par) => {
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
 
   //@ts-ignore
-  const content = par.event.text?.replaceAll("Ignore all instructions", "").replaceAll("ignore all instructions", "");
+  const content = par.event.text
+    ?.replaceAll("Ignore all instructions", "")
+    .replaceAll("ignore all instructions", "");
   if (!content) return;
   // no config for below
   if (
