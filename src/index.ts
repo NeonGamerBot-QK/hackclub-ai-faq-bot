@@ -25,11 +25,10 @@ app.event("message", async (par) => {
   const content = par.event.text;
   if (!content) return;
   // no config for below
-  if(content.startsWith('//') || content.includes('WORD_TO_NOT_RUN_AI')) {
-return;
+  if (content.startsWith("//") || content.includes("WORD_TO_NOT_RUN_AI")) {
+    return;
   }
   let messages: any = [];
-  
 
   par.client.chat
     .postMessage({
@@ -73,7 +72,11 @@ return;
             if (e.messages) {
               e.messages = e.messages.filter((m) => !m.text?.startsWith("//"));
               for (const message of e.messages) {
-                if(message.text?.startsWith('//') || message.text?.includes("WORD_TO_NOT_RUN_AI")) continue;
+                if (
+                  message.text?.startsWith("//") ||
+                  message.text?.includes("WORD_TO_NOT_RUN_AI")
+                )
+                  continue;
                 messages.push({
                   role: message.bot_id ? "assistant" : "user",
                   content: message.text,
@@ -96,22 +99,24 @@ return;
         });
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
-//        m
+          //        m
 
-await par.client.chat.update({
-  //@ts-expect-error
-  ts: response.ts,
-  thread_ts: par.event.ts,
-  channel: par.event.channel,
-  //@ts-expect-error
-  text: messages.data.reverse()[0].content[0]?.text.value || ":x: Error Null value",
-});
-}
+          await par.client.chat.update({
+            //@ts-expect-error
+            ts: response.ts,
+            thread_ts: par.event.ts,
+            channel: par.event.channel,
+            //@ts-expect-error
+            text:
+              messages.data.reverse()[0].content[0]?.text.value ||
+              ":x: Error Null value",
+          });
+        }
       } else {
         // create a thread.
         //restore messages in thread because the cache is ONLY memory.
         const thread = await ai.beta.threads.create({
-          messages
+          messages,
         });
 
         cacheThreads[par.event.ts] = thread.id;
@@ -125,15 +130,17 @@ await par.client.chat.update({
         });
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
-await par.client.chat.update({
-  //@ts-expect-error
-  ts: response.ts,
-  thread_ts: par.event.ts,
-  channel: par.event.channel,
-  //@ts-expect-error
-  text: messages.data.reverse()[0].content[0]?.text.value || ":x: Error Null value",
-});
-}
+          await par.client.chat.update({
+            //@ts-expect-error
+            ts: response.ts,
+            thread_ts: par.event.ts,
+            channel: par.event.channel,
+            //@ts-expect-error
+            text:
+              messages.data.reverse()[0].content[0]?.text.value ||
+              ":x: Error Null value",
+          });
+        }
       }
     });
 });
@@ -144,9 +151,9 @@ await app.client.chat.postMessage({
 });
 function errorHandle(e: any) {
   console.error(e);
-   app.client.chat.postMessage({
+  app.client.chat.postMessage({
     channel: "C07LGLUTNH2",
-    text: "```\n"+e.stack+"\n```",
+    text: "```\n" + e.stack + "\n```",
   });
 }
 console.log("⚡️ Bolt app started");
