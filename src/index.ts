@@ -8,7 +8,7 @@ const ai = new openai({
 let cacheThreads: any = {};
 const app = new App({
   token: process.env.BOT_TOKEN,
-  logLevel: LogLevel.DEBUG,
+  // logLevel: LogLevel.DEBUG,
   signingSecret: process.env.SIGNING_SECRET,
 });
 const aiID = await ai.beta.assistants.list().then((e) => e.data[0].id);
