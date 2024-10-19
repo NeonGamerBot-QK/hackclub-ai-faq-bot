@@ -105,8 +105,8 @@ app.event("message", async (par) => {
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
           //        m
-         //@ts-ignore
-         console.debug(messages.data.filter((e) => e.role !== "user"))
+          //@ts-ignore
+          console.debug(messages.data.filter((e) => e.role !== "user"));
           await par.client.chat.update({
             //@ts-ignore
             ts: response.ts,
@@ -137,7 +137,7 @@ app.event("message", async (par) => {
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
           //@ts-ignore
-          console.debug(messages.data.filter((e) => e.role !== "user"))
+          console.debug(messages.data.filter((e) => e.role !== "user"));
           await par.client.chat.update({
             //@ts-ingore
             ts: response.ts,
