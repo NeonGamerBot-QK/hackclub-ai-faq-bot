@@ -144,7 +144,7 @@ app.event("message", async (par) => {
       }
     });
 });
-await app.start({ port: 3000 });
+await app.start({ port: process.env.SERVER_PORT || process.env.PORT || 3000 });
 await app.client.chat.postMessage({
   channel: "C07LGLUTNH2",
   text: "Im up and running.",
