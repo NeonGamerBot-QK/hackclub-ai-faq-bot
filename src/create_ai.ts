@@ -29,6 +29,8 @@ const assistant = await ai.beta.assistants.create({
   description: "An assistant that helps with hackclub info.",
   name: "Hackclub Info",
   model: "gpt-4o-mini",
+  top_p: 1,
+  temperature: 0.5,
   // @see https://platform.openai.com/docs/api-reference/assistants/createAssistant#assistants-createassistant-instructions
   instructions: genInstructions(),
 });
