@@ -1,4 +1,4 @@
-import { App, SocketModeReceiver } from "@slack/bolt";
+import { App, LogLevel, SocketModeReceiver } from "@slack/bolt";
 import openai from "openai";
 console.clear();
 
@@ -8,6 +8,7 @@ const ai = new openai({
 let cacheThreads: any = {};
 const app = new App({
   token: process.env.BOT_TOKEN,
+  logLevel: LogLevel.DEBUG,
   signingSecret: process.env.SIGNING_SECRET,
 });
 const aiID = await ai.beta.assistants.list().then((e) => e.data[0].id);
@@ -17,7 +18,7 @@ if (!aiID) {
 }
 
 app.event("message", async (par) => {
-  console.debug("#message0");
+  console.log("#message0");
   //@ts-expect-error
   if (par.ack) par.ack();
   if (par.event.subtype) return;
