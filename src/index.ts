@@ -159,4 +159,6 @@ function errorHandle(e: any) {
     text: "```\n" + e.stack + "\n```",
   });
 }
+process.on("uncaughtException", errorHandle);
+process.on("unhandledRejection", errorHandle);
 console.log("⚡️ Bolt app started");
