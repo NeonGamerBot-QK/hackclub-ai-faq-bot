@@ -1,4 +1,5 @@
 // help idk how to use assistns
+// @see https://platform.openai.com/docs/assistants/quickstart?context=without-streaming
 import openai from "openai";
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
@@ -9,10 +10,10 @@ const message = await ai.beta.threads.messages.create(
     thread.id,
     {
       role: "user",
-      content: "What is hackclub?"
+      content: " Where can I showcase my projects?"
     }
 );
-  
+
 let run = await ai.beta.threads.runs.createAndPoll(
     thread.id,
     { 
