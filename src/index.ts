@@ -113,8 +113,8 @@ app.event("message", async (par) => {
             channel: par.event.channel,
             text:
               //@ts-expect-error
-              messages.data.filter(e => e.role !== "user").reverse()[0].content[0]?.text.value ||
-              ":x: Error Null value",
+              messages.data.filter((e) => e.role !== "user").reverse()[0]
+                .content[0]?.text.value || ":x: Error Null value",
           });
         }
       } else {
@@ -142,8 +142,8 @@ app.event("message", async (par) => {
             channel: par.event.channel,
             text:
               //@ts-expect-error
-              messages.data.filter(e => e.role !== "user").reverse()[0].content[0]?.text.value ||
-              ":x: Error Null value",
+              messages.data.filter((e) => e.role !== "user").reverse()[0]
+                .content[0]?.text.value || ":x: Error Null value",
           });
         }
       }
