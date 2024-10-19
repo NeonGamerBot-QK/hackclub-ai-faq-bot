@@ -135,8 +135,8 @@ app.event("message", async (par) => {
             ts: response.ts,
             thread_ts: par.event.ts,
             channel: par.event.channel,
-            text: 
-            //@ts-expect-error
+            text:
+              //@ts-expect-error
               messages.data.reverse()[0].content[0]?.text.value ||
               ":x: Error Null value",
           });
