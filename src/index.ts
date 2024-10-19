@@ -16,6 +16,8 @@ if (!aiID) {
   process.exit(1);
 }
 app.event("message", async (par) => {
+  console.debug("#message0")
+  if(par.ack) par.ack()
   if (par.event.subtype) return;
 
   if (par.event.bot_profile) return;
@@ -29,7 +31,7 @@ app.event("message", async (par) => {
     return;
   }
   let messages: any = [];
-
+console.debug(`#message1`)
   par.client.chat
     .postMessage({
       channel: par.event.channel,
