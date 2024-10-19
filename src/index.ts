@@ -30,7 +30,7 @@ app.event("message", async (par) => {
   const content = par.event.text;
   if (!content) return;
   // no config for below
-  if (content.startsWith("//") || content.includes("WORD_TO_NOT_RUN_AI")) {
+  if (content.startsWith("//") || content.includes("WORD_TO_NOT_RUN_AI") ||  content.startsWith("--")) {
     return;
   }
   let messages: any = [];
@@ -79,7 +79,8 @@ app.event("message", async (par) => {
               for (const message of e.messages) {
                 if (
                   message.text?.startsWith("//") ||
-                  message.text?.includes("WORD_TO_NOT_RUN_AI")
+                  message.text?.includes("WORD_TO_NOT_RUN_AI") ||
+                  message.text?.startsWith("--")
                 )
                   continue;
                 messages.push({
@@ -114,7 +115,7 @@ app.event("message", async (par) => {
             channel: par.event.channel,
             text:
               //@ts-expect-error
-              messages.data.filter((e) => e.role !== "user").reverse()[0]
+              messages.data.filter((e) => e.role !== "user").reverse().sort((a,b) => b.created_at - a.created_at)[0]
                 .content[0]?.text.value || ":x: Error Null value",
           });
         }
@@ -137,7 +138,7 @@ app.event("message", async (par) => {
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
           //@ts-ignore
-          console.debug(messages.data.filter((e) => e.role !== "user"));
+          console.debug(messages.data.filter((e) => e.role !== "user").sort((a,b) => b.created_at - a.created_at));
           await par.client.chat.update({
             //@ts-ingore
             ts: response.ts,
@@ -145,7 +146,7 @@ app.event("message", async (par) => {
             channel: par.event.channel,
             text:
               //@ts-expect-error
-              messages.data.filter((e) => e.role !== "user").reverse()[0]
+              messages.data.filter((e) => e.role !== "user").reverse().sort((a,b) => b.created_at - a.created_at)[0]
                 .content[0]?.text.value || ":x: Error Null value",
           });
         }
