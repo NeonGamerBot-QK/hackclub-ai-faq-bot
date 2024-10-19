@@ -1,7 +1,7 @@
-import dotenv from "dotenv";
-dotenv.config();
 import { App, SocketModeReceiver } from "@slack/bolt";
 import openai from "openai";
+console.clear()
+
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
 });
@@ -15,6 +15,7 @@ if (!aiID) {
   console.error("No AI found.");
   process.exit(1);
 }
+
 app.event("message", async (par) => {
   console.debug("#message0")
   //@ts-expect-error
@@ -147,6 +148,8 @@ console.debug(`#message1`)
       }
     });
 });
+
+console.log(`Starting on port ${process.env.SERVER_PORT || 3000}`);
 await app.start({ port: process.env.SERVER_PORT || process.env.PORT || 3000 });
 await app.client.chat.postMessage({
   channel: "C07LGLUTNH2",
