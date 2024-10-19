@@ -152,10 +152,11 @@ app.event("message", async (par) => {
 console.log(`Starting on port ${process.env.PORT || 3000}`);
 //@ts-ignore
 await app.start({ port: process.env.PORT || 3000 });
-await app.client.chat.postMessage({
+ app.client.chat.postMessage({
   channel: "C07LGLUTNH2",
   text: "Im up and running.",
 });
+console.log("⚡️ Bolt app started");
 function errorHandle(e: any) {
   console.error(e);
   app.client.chat.postMessage({
@@ -165,4 +166,3 @@ function errorHandle(e: any) {
 }
 process.on("uncaughtException", errorHandle);
 process.on("unhandledRejection", errorHandle);
-console.log("⚡️ Bolt app started");
