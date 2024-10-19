@@ -1,6 +1,6 @@
 import { App, SocketModeReceiver } from "@slack/bolt";
 import openai from "openai";
-console.clear()
+console.clear();
 
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
