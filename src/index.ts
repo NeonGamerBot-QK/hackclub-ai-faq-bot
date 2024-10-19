@@ -17,7 +17,6 @@ if (!aiID) {
 }
 app.event("message", async (par) => {
   if (par.event.subtype) return;
-  console.debug(`#message`, par.message);
 
   if (par.event.bot_profile) return;
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
@@ -25,25 +24,12 @@ app.event("message", async (par) => {
   //@ts-ignore
   const content = par.event.text;
   if (!content) return;
-  let messages: any = [];
-  if (par.event.thread_ts) {
-    await par.client.conversations
-      .replies({
-        channel: par.event.channel,
-        ts: par.event.thread_ts,
-      })
-      .then((e) => {
-        if (e.messages) {
-          e.messages = e.messages.filter((m) => !m.text?.startsWith("//"));
-          for (const message of e.messages) {
-            messages.push({
-              role: message.bot_id ? "assistant" : "user",
-              content: message.text,
-            });
-          }
-        }
-      });
+  // no config for below
+  if(content.startsWith('//') || content.includes('WORD_TO_NOT_RUN_AI')) {
+return;
   }
+  let messages: any = [];
+  
 
   par.client.chat
     .postMessage({
@@ -52,8 +38,6 @@ app.event("message", async (par) => {
       text: ":spin-loading: Loading...",
     })
     .then(async (response) => {
-      // pretend to ai it.
-      // ...
       const moderationOut = await ai.moderations
         .create({
           input: content,
@@ -77,54 +61,80 @@ app.event("message", async (par) => {
         });
         return;
       }
-      //TODO: find a tutorial
-      //@ts-ignore
+      //@ts-expect-error
       if (par.event.thread_ts) {
+        await par.client.conversations
+          .replies({
+            channel: par.event.channel,
+            //@ts-expect-error
+            ts: par.event.thread_ts,
+          })
+          .then((e) => {
+            if (e.messages) {
+              e.messages = e.messages.filter((m) => !m.text?.startsWith("//"));
+              for (const message of e.messages) {
+                if(message.text?.startsWith('//') || message.text?.includes("WORD_TO_NOT_RUN_AI")) continue;
+                messages.push({
+                  role: message.bot_id ? "assistant" : "user",
+                  content: message.text,
+                });
+              }
+            }
+          });
+      }
+      //@ts-ignore
+      if (par.event.thread_ts && cacheThreads[par.event.thread_ts]) {
+        //@ts-ignore
+        const thread = cacheThreads[par.event.thread_ts];
+        await ai.beta.threads.messages.create(thread, {
+          role: "user",
+          content,
+        });
+
+        let run = await ai.beta.threads.runs.createAndPoll(thread, {
+          assistant_id: aiID,
+        });
+        if (run.status === "completed") {
+          const messages = await ai.beta.threads.messages.list(run.thread_id);
+//        m
+
+await par.client.chat.update({
+  //@ts-expect-error
+  ts: response.ts,
+  thread_ts: par.event.ts,
+  channel: par.event.channel,
+  //@ts-expect-error
+  text: messages.data.reverse()[0].content[0]?.text.value || ":x: Error Null value",
+});
+}
+      } else {
+        // create a thread.
+        //restore messages in thread because the cache is ONLY memory.
+        const thread = await ai.beta.threads.create({
+          messages
+        });
+
+        cacheThreads[par.event.ts] = thread.id;
         await ai.beta.threads.messages.create(thread.id, {
           role: "user",
-          content: " Where can I showcase my projects?",
+          content,
         });
 
         let run = await ai.beta.threads.runs.createAndPoll(thread.id, {
           assistant_id: aiID,
-          //   instructions: "Please address the user as Jane Doe. The user has a premium account."
         });
         if (run.status === "completed") {
           const messages = await ai.beta.threads.messages.list(run.thread_id);
-          for (const message of messages.data.reverse()) {
-            //@ts-ignore
-            console.log(`${message.role} > ${message.content[0].text.value}`);
-          }
-        } else {
-          console.log(run.status);
-        }
-      } else {
-        // create a thread.
-        const thread = await ai.beta.threads.create();
-        cacheThreads[par.event.ts] = thread.id;
+await par.client.chat.update({
+  //@ts-expect-error
+  ts: response.ts,
+  thread_ts: par.event.ts,
+  channel: par.event.channel,
+  //@ts-expect-error
+  text: messages.data.reverse()[0].content[0]?.text.value || ":x: Error Null value",
+});
+}
       }
-      const aiResponse = null;
-      // const aiResponse = await ai.chat.completions.create({
-      //     model: "gpt-4o-mini",
-      //     messages: [
-      //         {
-      // role: "system",
-      // content: getPrompt()
-      //         },
-      //         ...messages, {
-      //         role: "user",
-      //         content: content
-      //     }],
-      //     stream: false
-      // })
-      console.log();
-      await par.client.chat.update({
-        //@ts-expect-error
-        ts: response.ts,
-        thread_ts: par.event.ts,
-        channel: par.event.channel,
-        // text: aiResponse.choices[0].message.content || ":x: Error Null value",
-      });
     });
 });
 await app.start({ port: 3000 });
@@ -132,5 +142,11 @@ await app.client.chat.postMessage({
   channel: "C07LGLUTNH2",
   text: "Im up and running.",
 });
-
+function errorHandle(e: any) {
+  console.error(e);
+   app.client.chat.postMessage({
+    channel: "C07LGLUTNH2",
+    text: "```\n"+e.stack+"\n```",
+  });
+}
 console.log("⚡️ Bolt app started");
