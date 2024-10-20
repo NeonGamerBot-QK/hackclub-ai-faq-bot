@@ -83,7 +83,7 @@ app.event("message", async (par) => {
           .then((e) => {
             if (e.messages) {
               e.messages = e.messages.filter((m) => !m.text?.startsWith("//"));
-            
+
               for (const message of e.messages) {
                 if (
                   message.text?.startsWith("//") ||
@@ -99,106 +99,104 @@ app.event("message", async (par) => {
             }
           });
       }
-      if(messages.length > 30) {
+      if (messages.length > 30) {
         return par.client.chat.update({
           text: ":x: Thread is to long! Please create a new thread.",
           channel: par.event.channel,
-//@ts-ignore
+          //@ts-ignore
           ts: response.ts,
-thread_ts: par.event.ts,
-        })
+          thread_ts: par.event.ts,
+        });
       }
       //@ts-ignore
       if (par.event.thread_ts && cacheThreads[par.event.thread_ts]) {
         try {
-        //@ts-ignore
-        const thread = cacheThreads[par.event.thread_ts];
-        await ai.beta.threads.messages.create(thread, {
-          role: "user",
-          content,
-        });
-
-        let run = await ai.beta.threads.runs.createAndPoll(thread, {
-          assistant_id: aiID,
-        });
-        if (run.status === "completed") {
-          const messages = await ai.beta.threads.messages.list(run.thread_id);
-          //        m
           //@ts-ignore
-          console.debug(messages.data.filter((e) => e.role !== "user"));
+          const thread = cacheThreads[par.event.thread_ts];
+          await ai.beta.threads.messages.create(thread, {
+            role: "user",
+            content,
+          });
+
+          let run = await ai.beta.threads.runs.createAndPoll(thread, {
+            assistant_id: aiID,
+          });
+          if (run.status === "completed") {
+            const messages = await ai.beta.threads.messages.list(run.thread_id);
+            //        m
+            //@ts-ignore
+            console.debug(messages.data.filter((e) => e.role !== "user"));
+            await par.client.chat.update({
+              //@ts-ignore
+              ts: response.ts,
+              thread_ts: par.event.ts,
+              channel: par.event.channel,
+              text:
+                //@ts-expect-error
+                messages.data
+                  .filter((e) => e.role !== "user")
+                  .reverse()
+                  .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+                  ?.text.value || ":x: Error Null value",
+            });
+          }
+        } catch (e: any) {
           await par.client.chat.update({
             //@ts-ignore
             ts: response.ts,
             thread_ts: par.event.ts,
             channel: par.event.channel,
-            text:
-              //@ts-expect-error
-              messages.data
-                .filter((e) => e.role !== "user")
-                .reverse()
-                .sort((a, b) => b.created_at - a.created_at)[0].content[0]?.text
-                .value || ":x: Error Null value",
+            text: `:x: An error accoured \`${e.message}\``,
           });
         }
-      } catch (e:any) {
-        await par.client.chat.update({
-          //@ts-ignore 
-          ts: response.ts,
-          thread_ts: par.event.ts,
-          channel: par.event.channel,
-          text: `:x: An error accoured \`${e.message}\``
-        })
-      }
-
-      
       } else {
         try {
-        // create a thread.
-        //restore messages in thread because the cache is ONLY memory.
-        const thread = await ai.beta.threads.create({
-          messages,
-        });
+          // create a thread.
+          //restore messages in thread because the cache is ONLY memory.
+          const thread = await ai.beta.threads.create({
+            messages,
+          });
 
-        cacheThreads[par.event.ts] = thread.id;
-        await ai.beta.threads.messages.create(thread.id, {
-          role: "user",
-          content,
-        });
+          cacheThreads[par.event.ts] = thread.id;
+          await ai.beta.threads.messages.create(thread.id, {
+            role: "user",
+            content,
+          });
 
-        let run = await ai.beta.threads.runs.createAndPoll(thread.id, {
-          assistant_id: aiID,
-        });
-        if (run.status === "completed") {
-          const messages = await ai.beta.threads.messages.list(run.thread_id);
-          //@ts-ignore
-          console.debug(
-            messages.data
-              .filter((e) => e.role !== "user")
-              .sort((a, b) => b.created_at - a.created_at),
-          );
+          let run = await ai.beta.threads.runs.createAndPoll(thread.id, {
+            assistant_id: aiID,
+          });
+          if (run.status === "completed") {
+            const messages = await ai.beta.threads.messages.list(run.thread_id);
+            //@ts-ignore
+            console.debug(
+              messages.data
+                .filter((e) => e.role !== "user")
+                .sort((a, b) => b.created_at - a.created_at),
+            );
+            await par.client.chat.update({
+              //@ts-ingore
+              ts: response.ts,
+              thread_ts: par.event.ts,
+              channel: par.event.channel,
+              text:
+                //@ts-expect-error
+                messages.data
+                  .filter((e) => e.role !== "user")
+                  .reverse()
+                  .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+                  ?.text.value || ":x: Error Null value",
+            });
+          }
+        } catch (e: any) {
           await par.client.chat.update({
-            //@ts-ingore
+            //@ts-ignore
             ts: response.ts,
             thread_ts: par.event.ts,
             channel: par.event.channel,
-            text:
-              //@ts-expect-error
-              messages.data
-                .filter((e) => e.role !== "user")
-                .reverse()
-                .sort((a, b) => b.created_at - a.created_at)[0].content[0]?.text
-                .value || ":x: Error Null value",
+            text: `:x: An error accoured \`${e.message}\``,
           });
         }
-      } catch (e:any) {
-        await par.client.chat.update({
-          //@ts-ignore 
-          ts: response.ts,
-          thread_ts: par.event.ts,
-          channel: par.event.channel,
-          text: `:x: An error accoured \`${e.message}\``
-        })
-      }
       }
     });
 });
