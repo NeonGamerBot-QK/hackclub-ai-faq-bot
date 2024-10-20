@@ -73,6 +73,7 @@ app.event("message", async (par) => {
       }
       //@ts-expect-error
       if (par.event.thread_ts) {
+       try {
         await par.client.conversations
           .replies({
             channel: par.event.channel,
@@ -82,6 +83,7 @@ app.event("message", async (par) => {
           .then((e) => {
             if (e.messages) {
               e.messages = e.messages.filter((m) => !m.text?.startsWith("//"));
+            
               for (const message of e.messages) {
                 if (
                   message.text?.startsWith("//") ||
@@ -128,6 +130,15 @@ app.event("message", async (par) => {
                 .value || ":x: Error Null value",
           });
         }
+      } catch (e) {
+        await par.client.chat.update({
+          //@ts-ignore 
+          ts: response.ts,
+          thread_ts: par.event.ts,
+          channel: par.event.channel,
+          text: `:x: An error accoured \`${e.message}\``
+        })
+      }
       } else {
         // create a thread.
         //restore messages in thread because the cache is ONLY memory.
