@@ -71,9 +71,9 @@ app.event("message", async (par) => {
         });
         return;
       }
+
       //@ts-expect-error
       if (par.event.thread_ts) {
-       try {
         await par.client.conversations
           .replies({
             channel: par.event.channel,
@@ -110,6 +110,7 @@ thread_ts: par.event.ts,
       }
       //@ts-ignore
       if (par.event.thread_ts && cacheThreads[par.event.thread_ts]) {
+        try {
         //@ts-ignore
         const thread = cacheThreads[par.event.thread_ts];
         await ai.beta.threads.messages.create(thread, {
@@ -139,7 +140,7 @@ thread_ts: par.event.ts,
                 .value || ":x: Error Null value",
           });
         }
-      } catch (e) {
+      } catch (e:any) {
         await par.client.chat.update({
           //@ts-ignore 
           ts: response.ts,
@@ -148,7 +149,10 @@ thread_ts: par.event.ts,
           text: `:x: An error accoured \`${e.message}\``
         })
       }
+
+      
       } else {
+        try {
         // create a thread.
         //restore messages in thread because the cache is ONLY memory.
         const thread = await ai.beta.threads.create({
@@ -186,6 +190,15 @@ thread_ts: par.event.ts,
                 .value || ":x: Error Null value",
           });
         }
+      } catch (e:any) {
+        await par.client.chat.update({
+          //@ts-ignore 
+          ts: response.ts,
+          thread_ts: par.event.ts,
+          channel: par.event.channel,
+          text: `:x: An error accoured \`${e.message}\``
+        })
+      }
       }
     });
 });
