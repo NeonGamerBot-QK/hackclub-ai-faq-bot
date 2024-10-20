@@ -99,6 +99,15 @@ app.event("message", async (par) => {
             }
           });
       }
+      if(messages.length > 30) {
+        return par.client.chat.update({
+          text: ":x: Thread is to long! Please create a new thread.",
+          channel: par.event.channel,
+//@ts-ignore
+          ts: response.ts,
+thread_ts: par.event.ts,
+        })
+      }
       //@ts-ignore
       if (par.event.thread_ts && cacheThreads[par.event.thread_ts]) {
         //@ts-ignore
