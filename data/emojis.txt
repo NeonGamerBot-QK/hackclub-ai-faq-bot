@@ -1,0 +1,47 @@
+To use an emoji, you can use :emoji_name:. You must use the exact name.
+:60fps-parrot: - Party parrot, used by Hack Clubbers a lot. Animated rainbow dancing parrot. Comes in a lot of varieties, but you only get to see a few of them
+:730964673876328482: - A blob eating popcorn
+:acongablob: - Animated blobs dancing in a conga line, loops so you can chain them together (no spaces in between)
+:blob-birthday-cake: - Animated birthday cake with slices disappearing
+:blobhaj_heart: - Blahaj holding a heart shaped red parcel
+:blobhaj_heart_rainbow: - Blahaj holding rainbow heart, Pride/LGBTQA+
+:blobhaj_heart_trans: - Blahaj holding trans heart
+:blobhaj_table: - Default Blahaj Happy
+:blobhaj_thanks_love: - Blahaj with heart above head
+:boba-parrot: - Party parrot but holding a cup of boba
+:cryingdoge: - Weak doge meme
+:cursor-pointer: - Pointer cursor, can be used to point people
+:double-upvote: - A double upvote, for when an upvote isn't enough
+:downvote: - Downvote, for when you don't agree
+:earthquakyeyes: - Animated eyes emoji shaking rapidly
+:eggsdee: - Over saturated and contrasted rofl emoji
+:erm-what-the-sigma-nerd: - 3D nerd meme
+:extreme-teamwork: - Two hands holding, represents teamwork
+:hyperfastparrot: - Party parrot but at 10x speed. Really fast!
+:hyper-popper: - Cat mouth open and close meme, but fast.
+:im-freaking-sobbing: - Despair face with tears coming out
+:noooo: - Despair face burning away into ashes (animated)
+:nooo: - Nooooo despair face
+:orpheus: - Orpheus, the lord and savior of Hack Club. Orpheus is a dinosuar who loves to code.
+:orpheus-pop: - Orpheus with his mouth opening and closing
+:orpheus-popcorn: - Orpheus with his mouth opening and closing in front of popcorn. For entertaining messages.
+:no: - No. No means no. (Animated no scrolling by infinitely)
+:neutral_ping_sock: - Ping sock, a sock staring at you for pinging it. It doesn't seem very happy.
+:poggers: - Pepe with its mouth open
+:quad_parrot: - Parrot Party but with four of them dancing in a circle.
+:siren-real: - For important things. It looks like a rotating light siren.
+:skelly-dance-rainbow: - Dancing skeleton with a rotating hue (rainbow animated)
+:skull_cry: - Skull emoji with sob coming out of its eyes. A mashup of two emotions.
+:spin-loading: - Animated loading icon, to show processing.
+:sus: - Sus. Woah there, that seems sus.
+:surprised: - Oh really? An emoji with its eyes popping out in surprise
+:thonk: - Think about it, sorry I meant THONK about it. A warped think emoji.
+:thinkspin: - A rotating think emoji (animated)
+:trolll: - Troll face, for "we do a little trolling"
+:true3: - When you agree with someone, react with this emoji!
+:this: - When you really agree with something, react with this emoji.
+:upvote: - When you agree with something, use this.
+:yes2: - Yes! I want this!
+:yay: - A waving fox (animated), good for welcoming people or celebrating
+:aha: - A :D emoticon but as an emoji
+:almighty-one-who-owns-all: - Zach Latta, the founder of Hackclub's profile picture. Shouldn't be used too much
