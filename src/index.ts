@@ -174,7 +174,7 @@ app.event("message", async (par) => {
                 .filter((e) => e.role !== "user")
                 .sort((a, b) => b.created_at - a.created_at),
             );
-            
+
             await par.client.chat.update({
               //@ts-ingore
               ts: response.ts,
