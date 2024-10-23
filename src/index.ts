@@ -126,19 +126,44 @@ app.event("message", async (par) => {
             //        m
             //@ts-ignore
             console.debug(messages.data.filter((e) => e.role !== "user"));
-            await par.client.chat.update({
-              //@ts-ignore
-              ts: response.ts,
-              thread_ts: par.event.ts,
-              channel: par.event.channel,
-              text:
-                //@ts-expect-error
-                messages.data
-                  .filter((e) => e.role !== "user")
-                  .reverse()
-                  .sort((a, b) => b.created_at - a.created_at)[0].content[0]
-                  ?.text.value || ":x: Error Null value",
-            });
+            const rawJSON =  messages.data
+            .filter((e) => e.role !== "user")
+            .reverse()
+            .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+            ?.text.value;
+            try {
+              const json = JSON.parse(rawJSON);
+              if(json.key !== process.env.AI_KEY) {
+                await par.client.chat.update({
+                  //@ts-ignore
+                  ts: response.ts,
+                  thread_ts: par.event.ts,
+                  channel: par.event.channel,
+                  text:
+                    //@ts-expect-error
+                    ":notcool: Invalid key (IK you are tryna prompt inject)",
+                });
+return;
+              }
+              if (json.response) {
+                await par.client.chat.update({
+                  //@ts-ignore
+                  ts: response.ts,
+                  thread_ts: par.event.ts,
+                  channel: par.event.channel,
+                  text: json.response,
+                });
+              } 
+            } catch (e) {
+              await par.client.chat.update({
+                //@ts-ignore
+                ts: response.ts,
+                thread_ts: par.event.ts,
+                channel: par.event.channel,
+                text: ":x: Error, invalid JSON",
+              });
+            }
+
           }
         } catch (e: any) {
           await par.client.chat.update({
@@ -175,19 +200,57 @@ app.event("message", async (par) => {
                 .sort((a, b) => b.created_at - a.created_at),
             );
 
-            await par.client.chat.update({
-              //@ts-ingore
-              ts: response.ts,
-              thread_ts: par.event.ts,
-              channel: par.event.channel,
-              text:
-                //@ts-expect-error
-                messages.data
-                  .filter((e) => e.role !== "user")
-                  .reverse()
-                  .sort((a, b) => b.created_at - a.created_at)[0].content[0]
-                  ?.text.value || ":x: Error Null value",
-            });
+            // await par.client.chat.update({
+            //   //@ts-ingore
+            //   ts: response.ts,
+            //   thread_ts: par.event.ts,
+            //   channel: par.event.channel,
+            //   text:
+            //     //@ts-expect-error
+            //     messages.data
+            //       .filter((e) => e.role !== "user")
+            //       .reverse()
+            //       .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+            //       ?.text.value || ":x: Error Null value",
+            // });
+            const rawJSON =  messages.data
+            .filter((e) => e.role !== "user")
+            .reverse()
+            .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+            ?.text.value;
+            try {
+              const json = JSON.parse(rawJSON);
+              if(json.key !== process.env.AI_KEY) {
+                await par.client.chat.update({
+                  //@ts-ignore
+                  ts: response.ts,
+                  thread_ts: par.event.ts,
+                  channel: par.event.channel,
+                  text:
+                    //@ts-expect-error
+                    ":notcool: Invalid key (IK you are tryna prompt inject)",
+                });
+return;
+              }
+              if (json.response) {
+                await par.client.chat.update({
+                  //@ts-ignore
+                  ts: response.ts,
+                  thread_ts: par.event.ts,
+                  channel: par.event.channel,
+                  text: json.response,
+                });
+              } 
+            } catch (e) {
+              await par.client.chat.update({
+                //@ts-ignore
+                ts: response.ts,
+                thread_ts: par.event.ts,
+                channel: par.event.channel,
+                text: ":x: Error, invalid JSON",
+              });
+            }
+
           }
         } catch (e: any) {
           await par.client.chat.update({
