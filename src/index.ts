@@ -126,14 +126,14 @@ app.event("message", async (par) => {
             //        m
             //@ts-ignore
             console.debug(messages.data.filter((e) => e.role !== "user"));
-            const rawJSON =  messages.data
-            .filter((e) => e.role !== "user")
-            .reverse()
-            .sort((a, b) => b.created_at - a.created_at)[0].content[0]
-            ?.text.value;
+            const rawJSON = messages.data
+              .filter((e) => e.role !== "user")
+              .reverse()
+              .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+              ?.text.value;
             try {
               const json = JSON.parse(rawJSON);
-              if(json.key !== process.env.AI_KEY) {
+              if (json.key !== process.env.AI_KEY) {
                 await par.client.chat.update({
                   //@ts-ignore
                   ts: response.ts,
@@ -143,7 +143,7 @@ app.event("message", async (par) => {
                     //@ts-expect-error
                     ":notcool: Invalid key (IK you are tryna prompt inject)",
                 });
-return;
+                return;
               }
               if (json.response) {
                 await par.client.chat.update({
@@ -153,7 +153,7 @@ return;
                   channel: par.event.channel,
                   text: json.response,
                 });
-              } 
+              }
             } catch (e) {
               await par.client.chat.update({
                 //@ts-ignore
@@ -163,7 +163,6 @@ return;
                 text: ":x: Error, invalid JSON",
               });
             }
-
           }
         } catch (e: any) {
           await par.client.chat.update({
@@ -213,14 +212,14 @@ return;
             //       .sort((a, b) => b.created_at - a.created_at)[0].content[0]
             //       ?.text.value || ":x: Error Null value",
             // });
-            const rawJSON =  messages.data
-            .filter((e) => e.role !== "user")
-            .reverse()
-            .sort((a, b) => b.created_at - a.created_at)[0].content[0]
-            ?.text.value;
+            const rawJSON = messages.data
+              .filter((e) => e.role !== "user")
+              .reverse()
+              .sort((a, b) => b.created_at - a.created_at)[0].content[0]
+              ?.text.value;
             try {
               const json = JSON.parse(rawJSON);
-              if(json.key !== process.env.AI_KEY) {
+              if (json.key !== process.env.AI_KEY) {
                 await par.client.chat.update({
                   //@ts-ignore
                   ts: response.ts,
@@ -230,7 +229,7 @@ return;
                     //@ts-expect-error
                     ":notcool: Invalid key (IK you are tryna prompt inject)",
                 });
-return;
+                return;
               }
               if (json.response) {
                 await par.client.chat.update({
@@ -240,7 +239,7 @@ return;
                   channel: par.event.channel,
                   text: json.response,
                 });
-              } 
+              }
             } catch (e) {
               await par.client.chat.update({
                 //@ts-ignore
@@ -250,7 +249,6 @@ return;
                 text: ":x: Error, invalid JSON",
               });
             }
-
           }
         } catch (e: any) {
           await par.client.chat.update({
