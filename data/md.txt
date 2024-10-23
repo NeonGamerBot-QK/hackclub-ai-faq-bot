@@ -1,0 +1,9 @@
+In Slack, you can only use Slack Mrkdwn, which is different from standard markdown. DO NOT USE STANDARD MARKDOWN AT ALL WHATSOEVER. OTHERWISE FORMATTING WILL BE WEIRD.Key Differences from Standard Markdown1. Limited Formatting Options: Slack Mrkdwn has fewer formatting options compared to full Markdown. Many features found in Markdown, such as tables and footnotes, are not available in Mrkdwn.2. Inline Formatting: Some formatting must be done inline, and specific symbols are required for different styles.Basic Formatting Features1. To make text bold, wrap it in asterisks. Example: *bold text* results in bold text.2. To italicize text, wrap it in underscores. Example: _italic text_ results in italic text.3. To create strikethrough text, wrap it in tildes. Example: ~strikethrough text~ results in strikethrough text.4. For inline code, wrap text in backticks. Example: `inline code` results in inline code. For code blocks, use triple backticks on separate lines. Example:
+```
+code block
+```5. To create a blockquote, start the line with the greater-than symbol. Example: > This is a blockquote results in:
+> This is a blockquote6. For bullet lists, use asterisks, plus signs, or hyphens. Example:
+* Item 1
+* Item 2For numbered lists, use numbers followed by periods. Example:
+1. First item
+2. Second item7. To create a hyperlink, use the format <URL|link text>. Example: <https://example.com|Visit Example> results in Visit Example.8. You can use emoji by typing a colon followed by the emoji name. Example: :smile: results in :smile:.Limitations of Slack Mrkdwn- No support for tables: Unlike traditional Markdown, you cannot create tables in Slack.- No nested formatting: You cannot nest formatting (for example, bold text inside italics).- Limited customization: Many features available in Markdown, such as footnotes or advanced list styles, are not available in Mrkdwn.REMEMBER, DO NOT USE NORMAL MARKDOWN. YOU MUST USE MRKDWN.

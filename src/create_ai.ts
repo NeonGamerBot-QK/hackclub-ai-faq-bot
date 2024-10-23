@@ -1,6 +1,8 @@
 import openai from "openai";
 import fs from "fs";
 import path from "path";
+const uuid = crypto.randomUUID().toString();
+console.log(`Creating AI with uuid: ${uuid}`);
 const genInstructions = () => {
   const filesInData = fs.readdirSync(path.join(__dirname, "..", "data"));
   return filesInData
@@ -32,6 +34,6 @@ const assistant = await ai.beta.assistants.create({
   top_p: 1,
   temperature: 0.1,
   // @see https://platform.openai.com/docs/api-reference/assistants/createAssistant#assistants-createassistant-instructions
-  instructions: genInstructions(),
+  instructions: genInstructions() + `\n\nall responses MUST BE IN JSON FORMAT, NO CODEBOCK. the json schema should be as follows: response, key which should ALWAYS be ${uuid}. `,
 });
 console.log(`Created assistant: ${assistant.name} - (${assistant.id})`);
