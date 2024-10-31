@@ -62,7 +62,7 @@ app.event("message", async (par) => {
           ts: response.ts,
           thread_ts: par.event.ts,
           channel: par.event.channel,
-          text: `:x: Harmful content detected.\n>Follwing subjects:  ${Object.entries(
+          text: `:x: Harmful content detected in "${content}".\n>Follwing subjects:  ${Object.entries(
             moderationOut.categories,
           )
             .filter((e) => e[1])
