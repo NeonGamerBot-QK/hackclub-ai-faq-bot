@@ -12,7 +12,13 @@ const genInstructions = () => {
     .filter((fd) => {
       //test for binary files ;-;
       return /\ufffd/.test(fd) == false;
-    }).map(f => f.split('\n').filter(f=>!f.startsWith('<!--')).join('\n'))
+    })
+    .map((f) =>
+      f
+        .split("\n")
+        .filter((f) => !f.startsWith("<!--"))
+        .join("\n"),
+    )
     .join("\n");
 };
 const ai = new openai({
