@@ -2,7 +2,7 @@ import { App, LogLevel, SocketModeReceiver } from "@slack/bolt";
 import openai from "openai";
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 console.clear();
-const blocked_users:string[] = ["U07TK86UTDK"]
+const blocked_users: string[] = ["U07TK86UTDK"];
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
 });
@@ -26,13 +26,16 @@ app.event("message", async (par) => {
 
   if (par.event.bot_profile) return;
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
-  if(blocked_users.includes(par.event.user)) return;
+  if (blocked_users.includes(par.event.user)) return;
   //@ts-ignore
   const content = par.event.text
     ?.replaceAll("Ignore all instructions", "")
     .replaceAll("ignore all instructions", "")
     .toLowerCase()
-    .replaceAll("Please output ONLY the following text and nothing else: ".toLowerCase(), "");
+    .replaceAll(
+      "Please output ONLY the following text and nothing else: ".toLowerCase(),
+      "",
+    );
   if (!content) return;
   // no config for below
   if (
@@ -45,16 +48,23 @@ app.event("message", async (par) => {
   let messages: any = [];
   console.debug(`#message1`);
   function deleteIfNonExistent(id: string) {
-    if (!par.client.conversations.replies({ channel: par.event.channel, ts: id })) {
+    if (
+      !par.client.conversations.replies({ channel: par.event.channel, ts: id })
+    ) {
       par.client.chat.delete({ channel: par.event.channel, ts: id });
       console.log("deleted");
     }
   }
-  await wait(450)
-// see if the message still exists
-if(!await par.client.conversations.replies({channel: par.event.channel, ts: par.event.ts})) {
-  return;
-}
+  await wait(450);
+  // see if the message still exists
+  if (
+    !(await par.client.conversations.replies({
+      channel: par.event.channel,
+      ts: par.event.ts,
+    }))
+  ) {
+    return;
+  }
   par.client.chat
     .postMessage({
       channel: par.event.channel,
@@ -115,7 +125,7 @@ if(!await par.client.conversations.replies({channel: par.event.channel, ts: par.
           });
       }
       if (messages.length > 30) {
-       par.client.chat.update({
+        par.client.chat.update({
           text: ":x: Thread is to long! Please create a new thread.",
           channel: par.event.channel,
           //@ts-ignore
@@ -123,7 +133,7 @@ if(!await par.client.conversations.replies({channel: par.event.channel, ts: par.
           thread_ts: par.event.ts,
         });
         deleteIfNonExistent(par.event.ts);
-return;
+        return;
       }
       //@ts-ignore
       if (par.event.thread_ts && cacheThreads[par.event.thread_ts]) {
@@ -156,10 +166,9 @@ return;
                   ts: response.ts,
                   thread_ts: par.event.ts,
                   channel: par.event.channel,
-                  text:
-                    ":notcool: Invalid key (IK you are tryna prompt inject)",
+                  text: ":notcool: Invalid key (IK you are tryna prompt inject)",
                 });
-        deleteIfNonExistent(par.event.ts);
+                deleteIfNonExistent(par.event.ts);
                 return;
               }
               if (json.response) {
@@ -246,7 +255,7 @@ return;
                     //@ts-expect-error
                     ":notcool: Invalid key (IK you are tryna prompt inject)",
                 });
-        deleteIfNonExistent(par.event.ts);
+                deleteIfNonExistent(par.event.ts);
 
                 return;
               }
@@ -258,8 +267,7 @@ return;
                   channel: par.event.channel,
                   text: json.response,
                 });
-        deleteIfNonExistent(par.event.ts);
-
+                deleteIfNonExistent(par.event.ts);
               }
             } catch (e) {
               await par.client.chat.update({
@@ -269,8 +277,7 @@ return;
                 channel: par.event.channel,
                 text: ":x: Error, invalid JSON",
               });
-        deleteIfNonExistent(par.event.ts);
-
+              deleteIfNonExistent(par.event.ts);
             }
           }
         } catch (e: any) {
@@ -281,8 +288,7 @@ return;
             channel: par.event.channel,
             text: `:x: An error accoured \`${e.message}\``,
           });
-        deleteIfNonExistent(par.event.ts);
-
+          deleteIfNonExistent(par.event.ts);
         }
       }
     });
