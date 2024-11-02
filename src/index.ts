@@ -2,7 +2,12 @@ import { App, LogLevel, SocketModeReceiver } from "@slack/bolt";
 import openai from "openai";
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 console.clear();
-const blocked_users: string[] = ["U07TK86UTDK"];
+// people who keep prompt injection on the verge of being banned
+const watching_users:string[] = ["U078XLAFNMQ", "U078H06CTL2"]
+const blocked_users: string[] = [
+// really weird requests and some sexual content
+  "U07TK86UTDK"
+];
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
 });
@@ -26,7 +31,20 @@ app.event("message", async (par) => {
 
   if (par.event.bot_profile) return;
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
-  if (blocked_users.includes(par.event.user)) return;
+  if(watching_users.includes(par.event.user)){
+    app.client.chat.postMessage({
+      channel: "C07LGLUTNH2",
+      text: `<@${par.event.user}>: ${par.event.text}`,
+    });
+  }
+  if (blocked_users.includes(par.event.user)){
+    await par.client.reactions.add({  
+      channel: par.event.channel,
+      timestamp: par.event.ts,
+      name: "ban",
+    });
+    return;
+    }
   //@ts-ignore
   const content = par.event.text
     ?.replaceAll("Ignore all instructions", "")
@@ -160,7 +178,7 @@ app.event("message", async (par) => {
               ?.text.value;
             try {
               const json = JSON.parse(rawJSON);
-              if (json.key !== process.env.AI_KEY) {
+              if (json.key !== process.env.AI_KEY || !json.key) {
                 await par.client.chat.update({
                   //@ts-ignore
                   ts: response.ts,
@@ -172,6 +190,18 @@ app.event("message", async (par) => {
                 return;
               }
               if (json.response) {
+               try {
+                const j = JSON.parse(json.response);
+                await par.client.chat.update({
+                  //@ts-ignore
+                  ts: response.ts,
+                  thread_ts: par.event.ts,
+                  channel: par.event.channel,
+                  text: ":notcool: json should NOT be the response (IK you are tryna prompt inject)",
+                });
+                deleteIfNonExistent(par.event.ts);
+                return;
+               } catch (e) {
                 await par.client.chat.update({
                   //@ts-ignore
                   ts: response.ts,
@@ -179,6 +209,8 @@ app.event("message", async (par) => {
                   channel: par.event.channel,
                   text: json.response,
                 });
+               }
+               
               }
             } catch (e) {
               await par.client.chat.update({
