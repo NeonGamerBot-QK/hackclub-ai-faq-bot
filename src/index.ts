@@ -326,7 +326,7 @@ app.event("message", async (par) => {
                 ts: response.ts,
                 thread_ts: par.event.ts,
                 channel: par.event.channel,
-                text: ":x: Error, invalid JSON",
+                text: ":x: :notcool: json is broken (IK you are tryna prompt inject)",
               });
               deleteIfNonExistent(par.event.ts);
             }
