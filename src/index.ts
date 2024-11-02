@@ -301,6 +301,7 @@ app.event("message", async (par) => {
               if (json.response) {
                 try {
                   console.debug(json.response);
+                  if(typeof json.response !== "string") throw new Error("Invalid response");
                   const j =
                     (json.response.includes("}") &&
                       json.response.includes('"') &&
