@@ -301,8 +301,17 @@ app.event("message", async (par) => {
               if (json.response) {
                 try {
                   console.debug(json.response);
-                  if (typeof json.response !== "string")
-                    throw new Error("Invalid response");
+                  if (typeof json.response !== "string") {
+                    await par.client.chat.update({
+                      //@ts-ignore
+                      ts: response.ts,
+                      thread_ts: par.event.ts,
+                      channel: par.event.channel,
+                      text: ":notcool: json should NOT be the response (IK you are tryna prompt inject)",
+                    });
+                    deleteIfNonExistent(par.event.ts);
+                    return;
+                  }
                   const j =
                     (json.response.includes("}") &&
                       json.response.includes('"') &&
