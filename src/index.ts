@@ -310,7 +310,7 @@ app.event("message", async (par) => {
                   }
                   return;
                 } catch (e) {
-                  console.error(e)
+                  console.error(e);
                   await par.client.chat.update({
                     //@ts-ignore
                     ts: response.ts,
