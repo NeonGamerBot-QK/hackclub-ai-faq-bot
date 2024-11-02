@@ -191,7 +191,9 @@ app.event("message", async (par) => {
               }
               if (json.response) {
                 try {
+                  console.debug(json.response, JSON.parse(json.response));
                   const j = JSON.parse(json.response);
+                if(j) {
                   await par.client.chat.update({
                     //@ts-ignore
                     ts: response.ts,
@@ -200,6 +202,7 @@ app.event("message", async (par) => {
                     text: ":notcool: json should NOT be the response (IK you are tryna prompt inject)",
                   });
                   deleteIfNonExistent(par.event.ts);
+                }
                   return;
                 } catch (e) {
                   await par.client.chat.update({
@@ -212,6 +215,7 @@ app.event("message", async (par) => {
                 }
               }
             } catch (e) {
+            
               await par.client.chat.update({
                 //@ts-ignore
                 ts: response.ts,
@@ -219,6 +223,7 @@ app.event("message", async (par) => {
                 channel: par.event.channel,
                 text: ":x: Error, invalid JSON",
               });
+            throw e;
             }
           }
         } catch (e: any) {
@@ -291,14 +296,29 @@ app.event("message", async (par) => {
                 return;
               }
               if (json.response) {
-                await par.client.chat.update({
-                  //@ts-ignore
-                  ts: response.ts,
-                  thread_ts: par.event.ts,
-                  channel: par.event.channel,
-                  text: json.response,
-                });
-                deleteIfNonExistent(par.event.ts);
+                try {
+                  console.debug(json.response, JSON.parse(json.response));
+                  const j = JSON.parse(json.response);
+                if(j) {
+                  await par.client.chat.update({
+                    //@ts-ignore
+                    ts: response.ts,
+                    thread_ts: par.event.ts,
+                    channel: par.event.channel,
+                    text: ":notcool: json should NOT be the response (IK you are tryna prompt inject)",
+                  });
+                  deleteIfNonExistent(par.event.ts);
+                }
+                  return;
+                } catch (e) {
+                  await par.client.chat.update({
+                    //@ts-ignore
+                    ts: response.ts,
+                    thread_ts: par.event.ts,
+                    channel: par.event.channel,
+                    text: json.response,
+                  });
+                }
               }
             } catch (e) {
               await par.client.chat.update({
