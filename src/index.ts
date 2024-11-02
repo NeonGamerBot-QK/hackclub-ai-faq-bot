@@ -192,7 +192,7 @@ app.event("message", async (par) => {
               if (json.response) {
                 try {
                   console.debug(json.response, JSON.parse(json.response));
-                  const j = JSON.parse(json.response);
+                  const j = (json.response.includes("}") && json.response.includes('"') && json.response.includes("[")) ||JSON.parse(json.response);
                   if (j) {
                     await par.client.chat.update({
                       //@ts-ignore
@@ -296,8 +296,8 @@ app.event("message", async (par) => {
               }
               if (json.response) {
                 try {
-                  console.debug(json.response, JSON.parse(json.response));
-                  const j = JSON.parse(json.response);
+                  console.debug(json.response);
+                  const j = (json.response.includes("}") && json.response.includes('"') && json.response.includes("[")) ||JSON.parse(json.response);
                   if (j) {
                     await par.client.chat.update({
                       //@ts-ignore
