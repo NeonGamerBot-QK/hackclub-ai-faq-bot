@@ -170,7 +170,7 @@ app.event("message", async (par) => {
             const messages = await ai.beta.threads.messages.list(run.thread_id);
             //        m
             //@ts-ignore
-            console.debug(messages.data.filter((e) => e.role !== "user"));
+            // console.debug(messages.data.filter((e) => e.role !== "user"));
             const rawJSON = messages.data
               .filter((e) => e.role !== "user")
               .reverse()
@@ -254,11 +254,11 @@ app.event("message", async (par) => {
           if (run.status === "completed") {
             const messages = await ai.beta.threads.messages.list(run.thread_id);
             //@ts-ignore
-            console.debug(
-              messages.data
-                .filter((e) => e.role !== "user")
-                .sort((a, b) => b.created_at - a.created_at),
-            );
+            // console.debug(
+            //   messages.data
+            //     .filter((e) => e.role !== "user")
+            //     .sort((a, b) => b.created_at - a.created_at),
+            // );
 
             // await par.client.chat.update({
             //   //@ts-ingore
@@ -310,6 +310,7 @@ app.event("message", async (par) => {
                   }
                   return;
                 } catch (e) {
+                  console.error(e)
                   await par.client.chat.update({
                     //@ts-ignore
                     ts: response.ts,
