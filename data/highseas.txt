@@ -6,6 +6,118 @@ Some of you have already seen the GitHub keynote. For everyone else, I am please
 3. BOOTY! Exchange your Doubloons for cool stuff in the shop :shopping_bags:
 4. REPEAT! Build, battle, and booty it up until January 31st :repeat:MacBooks. Soldering irons. 3D printers. Breadboards. Keyboards. Framework laptops. All the blahaj you can hug. This is the bounty that awaits ye on the High Seas :neocat_hug_haj:This event is all about building high-effort personal projects. Your work will be judged by your peers; ship things that show a piece of your soul, and they will reward you for it.Many new people will join slack for this event. Please welcome them. Help them find their way, their new best friends, their home; as the Hack Clubbers of yore did for you :handshake:Your journey begins in the harbor.Fair seas and following winds,
 —The High Seas Team :saluting_face:
+Setting off into the High Seas (Getting Started)!
+What does the setup script do?
+The script automatically installs the Wakatime extension if you have Visual Studio Code installed and connects it to Hackatime - our custom server for High Seas. It then sends us a heartbeat so we know you’ve successfully set it up. You can look at the full script here for Linux/macOS or here for Windows.
+What if it errors?
+Don’t fret! If something goes wrong, click the “Or, skip for now” button and continue with the tutorial. 
+Why have I not got an invite to Slack?
+If you don’t see an invite in your inbox, make sure to check your spam folder and wait a few minutes. If you still don’t see it after waiting a few minutes, please email highseas@hackclub.com from the email you signed up with, using the subject “Not received High Seas Slack invite”.
+Why can’t I do anything?
+Check your DMs with Slackbot. You should have a message telling you to make your way to the Harbor. From here, you can complete the tutorial to graduate Pirate Academy.
+Why am I getting an error that I am not authorised to install High Seas on Hack Club?
+Multi-Channel guests are not able to connect to High Seas through the Slack login. Once your verification is accepted, you will be upgraded to a full slack user and the Slack login will work. Until your verification is accepted, please use the link that was sent to you in direct messages!
+Projects & the Shipyard
+What can I use to log time?
+We use a custom Wakatime server, but we have some limits on the extensions you can use. Anything listed below works for High Seas though!
+Any JetBrains IDE* • plugins
+Any Eclipse tooling* • plugins
+Arduino IDE • Plugin
+Brackets • Plugin
+Delphi • Plugin
+Any VSCode based editor * • Plugin
+HBuilderX • Plugin
+Ida • Plugin
+Komodo • Plugin
+Neovim • Plugin
+Notepad++ • Plugin
+Siyuan • Plugin
+Sublime • Text Plugin
+TeXStudio • Plugin
+Zed • Plugin
+Emacs • Plugin
+*Not all versions of these editors support plugins/extensions which means we won’t be able to support those versions. 
+
+To set up the extensions, run the command from the Signpost which will configure the plugins to connect to Hakatime, our Wakatime server.
+What projects are accepted for High Seas?
+Anything that you programmed and logged with the extension! We are not accepting non-programming projects for High Seas. (we may in the future, though)
+Can I do a group project?
+Yup! Just all work on separate hackatime accounts and submit separately but use the same repo! We would actually encourage you to do a group project, as it is a really cool experience to build something big with others.
+Do I have to use GitHub?
+Nope! You can use any Git host, but we recommend using GitHub as it’s an industry standard.
+Does my project need to be open source?
+Yes! Your project needs to be on a Git repository that’s publicly accessible
+How do I ship a project?
+To ship your project, you need to visit the Shipyard to draft a new ship. Once you’re happy with it, you can ship it to the Wonderdome where it’ll get peer-voted before your doubloons are given out.
+What are the requirements for a shipped project?
+A shipped project must be shared in a way that other people can experience to the greatest possible extent.
+
+Your repo needs a README with:
+Screenshots and/or videos of your project in action
+Description of your project
+A live URL, release or deployment for the project (see below)
+Steps on how to use your project
+
+If all else fails, you can publish it to GitHub including everything necessary to run the project (requirements.txt, package.json).
+Keep in mind that the goal is to make your project accessible to others & everyone has different versions of languages and different dependencies installed. Don’t assume they know how to run your project!
+What should a demo link be?
+A demo link should be something that people can visit and experience your project. Here are some examples:
+A Python package published to PyPi
+A Minecraft mod published to Modrinth or Hangar 
+Publishing a website on your domain
+A game published on Itch
+If there's no way for other people to experience it themselves, you can upload a video to YouTube and link that.
+Doubloons & the Wonderdome
+How do I get doubloons?
+You get doubloons after your project is sent to the Wonderdome and receives enough votes. You can see the amount of votes your projects have in the Shipyard.
+What determines how many doubloons I get?
+The amount of doubloons you get paid from the Wonderdome is dependent on how many hours you put into your project and how it ranks against projects with similar numbers of hours.
+Why do I need to vote on projects?
+We use the votes to figure out the quality of projects for doubloon payouts. It also gets people using your projects!
+What happens to my vote reasons? 
+We don't share your feedback on the projects with the authors. It's just used for making sure your votes are legitimate and to improve the system.
+
+Shop
+Does (x) ship to (y)?
+Check the shop! You can select your region and everything in the shop will ship to you!
+Can I change my order later?
+No. All orders are final. You cannot cancel or modify the details of them after purchasing them so make sure you choose wisely. 
+What if my order can’t be fulfilled?
+We will issue you a full refund of your doubloons if we are unable to fulfil your order.
+Do I have to pay?
+No. The prizes and shipping are entirely paid for by Hack Club. Your country may charge you a customs duty on certain items, however.
+Will Hack Club cover customs fees?
+No. Hack Club cannot cover customs fees for you. Customs duties are fees that your country requires you to pay to receive packages internationally above a certain value. You must pay these duties to get your prize. You should check your country’s Government website to help predict what the costs will be. If you are unable to pay the associated customs fees, do not purchase an item because that prize will get destroyed.
+How can I see everything coming to me?
+This Shipment Viewer will show everything that is on its way to you from our warehouse with tracking links if they are available. Anything ordered on your behalf from a different vendor will not show up here.
+Verification
+Who can participate in High Seas?
+Anyone 18 or under can participate in High Seas! If you are still in high school, over 18 and in the United States or Canada you can also participate in High Seas.
+Why do I have to verify?
+We need to make sure that you’re a high school student. Unfortunately, lots of adults like pretending to be kids to get free stuff, so we need to make sure you’re actually who you say you are.
+What form of ID is accepted?
+United States 🇺🇸 / Australia 🇦🇺 / Canada 🇨🇦 / Singapore 🇸🇬 - Either of the following:
+Government issued ID (drivers license, NRIC card, FIN card, passport)
+A school ID and your most recent report card / transcript
+India 🇮🇳
+Only a PDF of an Aadhaar Card. Not a generic school ID.
+We will only accept a PDF of your Aadhar Card downloaded from the DigiLocker Website or UIDAI Website (masked Aadhar is ok), you can find the DigiLocker instructions here.
+United Kingdom 🇬🇧 - Either of the following:
+A government issued ID (eg. drivers license or passport), or
+A dated school ID (no report card / transcript needed)
+Other 🏳️
+A government issued document with your date of birth, name and photo.
+What if my verification was rejected?
+You can reapply here! You can find your Slack ID by running /sdt whoami in Slack. If you are struggling, please ask in #high-seas-help and someone will help you.
+Other Stuff!
+Why is (x feature) not working properly?
+The team is aware of issues and is working super hard to fix them! If you don’t think they’re aware of an issue, please send a message in #high-seas-help with the issue.
+When will the High Seas drain?
+High Seas will end on January 31st 2025. More information about how the event will wrap up will be released closer to the time.
+
+If you’ve got more questions that haven’t been answered here, please ask them to post them in #high-seas-help
+
+
 Below is all the current data for the shop as of Oct 30 pm 2024. Please use this data to help people when asking about shop data for high seas.
 [
       {
