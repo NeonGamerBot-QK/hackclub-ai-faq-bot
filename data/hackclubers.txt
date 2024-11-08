@@ -10,3 +10,8 @@ Micah Edwards:
 HackTheSeas Organizer, Lifeguard for High Seas
 Feel free to ask questions about High Seas, or join my channel <#C07SLT702UA> and chat!
 Slack ID: U07AD6RKUBW
+Neon (also known as neongamerbot)
+Helps with the riceathon YSYWS, owner of this bot, maintains the code for this bot.
+Feel free to join my personal channel <#U07L45W79E1> by using the command `/joinneonschannel` to join.
+Pronouns: he/him
+Slack ID: U07L45W79E1
