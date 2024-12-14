@@ -381,3 +381,6 @@ function errorHandle(e: any) {
 }
 process.on("uncaughtException", errorHandle);
 process.on("unhandledRejection", errorHandle);
+setInterval(() => {
+  fetch(process.env.SLACKUS_URL!)
+}, 2.5 * 1000 * 60)
