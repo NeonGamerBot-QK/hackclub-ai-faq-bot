@@ -3,10 +3,12 @@ import openai from "openai";
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 console.clear();
 // people who keep prompt injection on the verge of being banned
-const watching_users: string[] = ["U078XLAFNMQ", "U078H06CTL2"];
+const watching_users: string[] = [];
 const blocked_users: string[] = [
   // really weird requests and some sexual content
   "U07TK86UTDK",
+  // prompt injection king
+  "U078XLAFNMQ",
 ];
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
@@ -31,7 +33,8 @@ app.event("message", async (par) => {
 
   if (par.event.bot_profile) return;
   if (!["C07STMAUMTK"].includes(par.event.channel)) return;
-  if (watching_users.includes(par.event.user)) {
+  // smh prompt injection i have had enough!
+  if (!watching_users.includes(par.event.user)) {
     app.client.chat.postMessage({
       channel: "C07LGLUTNH2",
       text: `<@${par.event.user}>: ${par.event.text}`,
