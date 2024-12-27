@@ -1,0 +1,1262 @@
+this is the last 100 announcments hackclub has posted, please learn from them:
+Ho Ho Ho :tw_santa:! It’s that time of the season again :snowing:, want a nice ornament to hang on your tree :christmas_tree:, a menorah to light up your desk, or an excuse to tinker with electronics for the season of giving?
+
+Hacky Holidays is a limited-time workshop for designing your own PCB decor. Come along and join others in huddles, chats and meetups as you put together a personalized, one-of-a-kind light-up trinket to complete your tree :christmas_tree:, light up your room, or anything in-between! You can make any decoration for any holiday, and at the end, all submissions will be compiled, with the top 3 being re-manufactured to be given out as gifts :gift:.
+
+*Feeling intimidated?* Hacky Holidays is intended for both beginners and the more advanced, we’ve provided some <https://hackyholidays.hackclub.com/guide|reference designs> to help you get started. *Not sure what to build?* Look at our example PCB to get some ideas!
+
+So come join us in <#C083SK3G5D3|> for a splendid time, and let's get building!
+
+_Hacky Holidays is an extension to OnBoard - people who have already fully used their OnBoard grant may apply, but not get two grants for the same design. Check out the <https://hackyholidays.hackclub.com/|website> for submission guidelines, or drop any questions in <#C083SK3G5D3|>._ Merry Christmas (eve)!
+
+Hey there! I’m Ian, a high school junior from Irvine, California. I fell in love with hackathons :computer: after organizing Hack Club’s _<https://www.youtube.com/watch?v=PnK4gzO6S3Q|Assemble>_ :bridge_at_night:. This winter, I’m excited to introduce *Scrapyard*—Hack Club’s next worldwide hackathon! :earth_americas:
+
+_Build stupid sh*t, get stupid prizes._ :roll_of_paper:
+
+Scrapyard is a simultaneous hackathon happening in cities across the globe, all about building stupid sh*t nobody needs*.* So think: the weirdest, most unnecessary inventions :hammer_and_wrench: you’ve ever dreamed of, all competing for the most ridiculous prizes imaginable. :trophy:
+
+:date: Here’s the plan:
+• *Now*: <https://scrapyard.hackclub.com?utm_source=announcement|Sign up>! Start organizing your team for your city, start reaching out to sponsors, and start securing a venue.
+• *February 15th*: We’re kicking things off with a flagship event in Los Angeles for 150 hackers. Limited travel stipends available – more info coming soon :eyes:. 
+• *March 15th*: Scrapyard events around the world begin – organized by Hack Clubbers like _YOU_.
+No experience? No problem. Scrapyard is beginner-friendly and open to high schoolers who want to have fun, make things, and meet fellow hackers! Plus, we’ve got resources to help you organize your own event. :jigsaw:
+
+What do you say? Sign up to organize an event in your city and help make Scrapyard magical. :sparkles:
+
+<https://scrapyard.hackclub.com?utm_source=announcement|https://scrapyard.hackclub.com>
+Join <#C0864GFN63X|> for updates
+
+Quick Update: Winter Boba Drops are now available everywhere! Not only the US. It was mostly a logistical problem of amazon accounts but I am up for it so yeah! The form will be updated ASAP.
+
+:christmas_tree::snowflake: *Winter Boba Drops are HERE!* :gift::cup_with_straw:
+Get ready to unleash your creativity and embrace the festive vibes! :star2: Create a *Winter/Christmas-themed HTML + CSS static website*, and we’ll send you an adorable *boba plushie* as a reward! :tada:
+
+*How to Participate:*
+:one: Build a website that captures the magic of winter and the joy of the holidays.
+:two: Submit your project here: <https://forms.hackclub.com/t/7Mwk7N3SwBus|Submit Your Website>.
+
+*Important Dates & Notes:*
+• *Starts:* December 20th (As soon as this announcement goes out!)
+• *Ends:* December 31st (11:59:59 PST)
+Don't miss your chance to code, celebrate, and cuddle up with your very own boba plushie! :santa::sparkles:
+Let’s make this winter extra special with your amazing creations. :computer::heart:
+
+-- <@U020X4GCWSF> & the Boba Drops Team
+
+:snowman:  *Cider Holiday Event: Get a $50 Apple Gift Card* :snowman:
+
+:hii: Hi, we’ve got something exciting new updates to Cider for the coming few weeks... :pepedrum::pepedrum::pepedrum:
+
+:sparkles: Starting *now until the 5th of January, 2025,* get a free *$50 apple gift card* when you successfully publish your iOS app on the App Store :hack-store: Towards the end, the top 3 App Store submissions will get exclusive apple merch!
+
+*If you have already done Cider:*
+You must have a developer account. Go ahead and publish your app. Once you’re done, fill out this <https://forms.hackclub.com/t/rMK8qc83tQus|form>, and we’ll give you a $50 Apple gift card.
+
+*If you have not done Cider yet:*
+Build an iOS app. Once it’s approved, you have two choices:
+1. If you already have a developer account: Receive a $100 Apple gift card for developing your app + $50 Apple gift card (once published).
+2. If you don’t have a developer account: Receive $100 to buy your developer account + $50 Apple gift card (once published).
+:eyes: *What is Cider?* Cider is a YSWS program that encourages high school students to ship iOS apps using *React Native* or *SwiftUI*—and publish them on the App Store.
+
+:spiral_calendar_pad: *Twice-a-Week Check-In Calls - 8:30 PM IST (Wednesday) &amp; 7:00 PM EST (Saturday)*
+• *Get help* when you’re stuck.
+• *Showcase* your work so far.
+• Hop in to *chill and share ideas*!
+:question: *Got questions?* Drop them into the <#C073DTGENJ2|> channel and visit <http://cider.hackclub.com|cider.hackclub.com> for more details on submission!—we’re here to help every step of the way :)
+
+_Squelch…ugh, what’s stuck to me? OH- it’s_
+
+:snowing: *STICKY HOLIDAYS* :snowing:: a two-week <#C07PZMBUNDS|> event running during winter holidays! :highseas:
+
+:yay: Here's how it works:
+• _YOU STICK_ to hacking every day from Dec 21 - Jan 5
+• _WE STICK_ to shipping you a custom, limited-time sticker for every day you log over 2 hours!
+• _((You'll still need to ship your project(s) at the end to get stickers))_
+• Some awesome Hack Clubbers are designing 16 stickers _as we speak_.
+So, still feeling _stuck_? Want to finally _peel_ yourself off that couch and commit to _sticking_ to your projects? :git::neocat_fingerguns: Then join us in this _You Stick, We Stick_!!
+
+Is there something i forgot to…_ad-here_? ʰᵉʰ
+
+*TL;DR: <#C07PZMBUNDS|> event happening Dec 21 - Jan 5. Code 2 hours every day. Collect 16 Stickers!*
+
+Hack Club HQ is officially holiday ready :white_check_mark: 
+
+:ferrisbongo: `cheru@hq:~$ cargo cult start`
+
+*Rust is my favorite language*- it's used all over (Firefox, Discord, Windows kernel), and I love it for its low-level design and type system that forces you to write better code :neocat_gun:. It's also known for having a steep learning curve - *let's climb it together* by building our own *command-line apps*! :partyparrot:
+
+:rust: We'll start with the <https://doc.rust-lang.org/book/|Rust Book> (chapters 1-12), and if you publish your app to <http://crates.io|crates.io> by New Year's, *I'll send you a Rust book of your choice*! :neocat_book: Also, everyone who ships a project or an additional feature will get *Orpheus x Ferris stickers* designed by <@U04KEK4TS72>! (You can submit even if you did the beta in November.)
+
+:confused-dino: Need inspiration? `ssh <http://cargo-cult.hackclub.com|cargo-cult.hackclub.com>` to see the criteria &amp; project gallery &amp; submit! We'll be working on our projects in <#C0121LVV79P|>- join us!
+
+`thread 'main' panicked at <http://ritual.rs:13:37|ritual.rs:13:37> go forth and be hacky!` :ferrishyper:
+
+Ho ho ho! :santa::christmas_tree:
+
+It's that time of year again! I'm inviting all you hack clubbers to join Hack Club's 2024 <#CQFS7Q4A1|>! Get ready to spread some holiday cheer and share the joy of giving!
+
+Here’s how it works:
+1. Sign up by November 27th at <https://hackclub.com/santa/> and join <#CQFS7Q4A1|> 
+2. On the 28th, my team of elves will send out matches (you will be matched with someone in your region for costs to be lowered)
+3. Buy the :sparkles: *perfect* :sparkles: gift under $30 for your match (in secret of course)
+4. Ship it out by December 15th (hard deadline December 28th)
+5. Wait, and you'll receive a present from your secret Santa soon!
+Let's spread the hacking joy and give some gifts! *Have any questions? Ask in <#CQFS7Q4A1|> or DM me (Santa)!*
+
+Merry hacking! :santa::heart::christmas_tree:
+
+Sign up now at <https://hackclub.com/santa>!
+
+Have you ever wanted to customise a Linux desktop? Here's a perfect opportunity to do just that!
+Introducing Riceathon, a brand-new Hack Club YSWS that lets you submit a Linux rice for prizes!
+
+Here's how the process works:
+:linuxfox: Rice/customize the Linux DE/WM of your choice
+:wakatime: Log your hours on Hackatime
+:linux:  Push your dotfiles to a repo and make a PR
+:blahaj: Get a prize of your choice, including hack club socks, a smolhaj, or a pair of thigh highs!
+
+Ready to start ricing the desktop of your dreams?
+:socks: Check out <https://riceathon.hackclub.com> for instructions!
+:eyes_wtf: If enough people submit, we'll do a gallery down the line where you can vote on other rices. The ricers with the most votes will get bonus prizes!
+:date: You have until Jan 10 to submit! (8 weeks)
+
+Check out the <#C07MLF9A8H5|> channel for help!
+
+Have you ever made a :mc_loading: Minecraft mod? _No?_ :xp_orb: Well, now is the perfect time to learn! Join <@U054VC2KM9P> and me in <#C07NQ5QAYNQ|> in a new YSWS where you build your own Minecraft mod and get the game to play it with friends! :mc_soulfire: _(PS: even if you don't have the game, we'll help you swipe a dead copy_ :mc_fox_spin:_)_
+
+Here's how it works:
+
+:crafting_table: Hack together awesome mod in your IDE of choice
+:mc_piston: Push your mod to the world to see on Modrinth
+:mc_diamond: Submit your mod on <http://hackcraft.hackclub.com|hackcraft.hackclub.com>
+
+Ready to generate a new seed?
+
+:mooshroom: *RSVP on <http://hackcraft.hackclub.com|hackcraft.hackclub.com>! At 200 RSVPs, we'll send everyone special stickers* :eyes_wtf:
+:diamond_pickaxe: Share progress and get help in <#C07NQ5QAYNQ|>!! :ender_halloween:
+
+:creeper:_: ssssssssssssssSSSsŚSŠSSȘSSS_ *BOOM* :boom:
+
+:quetzal: _A majestic bird flies over you as you deploy and ship your latest project. It drops a scroll onto your laptop that reads:_
+Hey! The :nest: Nest team is excited to announce that <@U01581HFAGZ> and <@U079A6KNYB1> will be hosting an AMA with *Mitchell Hashimoto* on *<https://time.cs50.io/20241109T1500-0500?title=Nest+AMA+with+Mitchell+Hashimoto&amp;location=Virtual|Saturday, November 9th @ 12PM PST>*!
+As founder and former CEO &amp; CTO of <https://www.hashicorp.com/|HashiCorp>, Mitchell Hashimoto has led the development of some of the tools that form the backbone of the cloud, such as Terraform and Consul.
+• :terminal: He's currently making <https://mitchellh.com/ghostty|Ghostty>, a fast, feature-rich, and native terminal emulator!
+• :airplane: He also flies airplanes (specifically, the Cirrus SF50 Vision)!
+*If you'd like to attend this AMA, react to this message with* :hashicorp: *to RSVP!* We'll let you know when the AMA is about to start.
+_In the meantime, if you're interested in a free Linux server to host your projects on, check out <https://hackclub.app/|Nest>!_
+
+
+
+:wave: *Hey!* I’m Rushil (<@U020X4GCWSF>), I’m 15 from the USA, and I’ve been helping with projects like *Boba Manor* &amp; *Boba Drops*, *Onboard*, and *Low Skies*. Now, I’m super excited to announce that I’m launching my very own *YSWS*: *Cascade!* :ocean::sparkles:
+
+:warning: *Looking for a project for _<http://highseas.hackclub.com|High Seas>_?* This could be a perfect fit! Dive in and get started! :anchor:
+
+Here’s how Cascade works:
+:sparkles: *Join the Fun:* Head to <http://cascade.hackclub.com|cascade.hackclub.com> and create an epic CSS animation with *2+ elements* on Codepen.
+
+:trophy: *Submit &amp; Win:* Every quality submission earns a *1-year Goodnotes Premium* or cool art supplies!
+
+:date: *Dates:* The event runs from *Nov 1st to Jan 1st*—plenty of time to perfect your masterpiece!
+
+Let the *CSS battle* begin! :crossed_swords: :sparkles:
+Join *<#C07QA8HD48N|>* for more info!
+
+> Sunbeams glint off the rippling water like brilliant daggers, stabbing your eyes in a much more pleasing way than a literal eye-stabbing. You inhale deeply. The aromas of the beach tickle your brain like a loving yet irritatingly domineering older sibling. Salt. Kelp. Rotting… fish, probably. Yup, some dead thing with fins is definitely decomposing nearby, microbes slowly transmuting it into a pungent cocktail of greenhouse gasses and putrescine aimlessly rising to heaven. Even fish can fly, if only in death :power-of-an-angel:
+> 
+> A tremor from below disturbs the peace. Grains of sand vibrate across your toenails like droplets of water skittering across a hot pan. Suddenly a trio of tall wooden masts breach the surface of the water, followed by sails, followed by the wooden hull of a gargantuan 18th-century ship shooting out of the water and into the air like a nerf football released from the bottom of a pool. The ship cartoonishly hangs in the air before crashing into the sea with a terrific _SPLOOSH_, creating a tremendous wave that rushes to shore and knocks you over with the overwhelming force of a friendly but overeager and poorly-trained doberman. The whole shebang is over in seconds, leaving you stunned, sprawled on the beach, covered in seaweed. You raise your head to see a dinosaur with an eyepatch gazing down at you from the mighty prow of the ship. A raccoon with a spyglass has climbed the rigging for a better view of your sogginess.
+> 
+> "Aye, a landlubber!! Ahoy new friend!!!!" cries the raccoon. The dinosaur smiles and nods excitedly, fussing with her eyepatch to get it on the other eye, both of which seem to be intact. "I am Captain Trashbeard, and this is my First Mate Arrpheus!! Behold our schooner, _Le Dumpstairè_, the finest pirate vessel in the Caribbean, feared by all who sail these waters!! Come, come aboard!!!!"
+> 
+> Arrpheus drops a rope ladder from the gunwales, the final wooden step landing in the water below with a miniscule _sploosh_ while dinosaur hooves above awkwardly and furiously beckon you forth. You pick yourself up off the beach, unsure what to do. This sort of thing doesn't usually happen to you. You look down at your phone and open the calendar. It's empty. You look up at the pirate ship. It's full. Of possibilities. Metaphorically, anyway, you can't see the interior. Unease gives way to resolve; fueled by a supernatural drive for adventure, your fear is left on the beach to watch you wade into the ocean, swim to the ladder, grasp the first rung, and climb aboard this maritime relic. And so began your new life as a pirate.
+
+_Some of you have already seen the GitHub keynote. For everyone else, I am pleased to inform you…_
+
+
+:parrot::sparkles: *Today is Day 1 of High Seas.* :sparkles::pirate-ship:
+
+
+For the next thirteen weeks, we will send you free stuff just for coding. Here's how it works:
+
+1. *BUILD!* Ship personal coding projects to earn Doubloons :gp:
+2. *BATTLE!* Ships compete for bonuses in peer-voted 1v1 matchups :crossed_swords:
+3. *BOOTY!* Exchange your Doubloons for cool stuff in the shop :shopping_bags:
+4. *REPEAT!* Build, battle, and booty it up until January 31st :repeat:
+
+MacBooks. Soldering irons. 3D printers. Breadboards. Keyboards. Framework laptops. _All the blahaj you can hug._ This is the bounty that awaits ye on the High Seas :neocat_hug_haj:
+
+This event is all about building high-effort personal projects. Your work will be judged by your peers; ship things that show a piece of your soul, and they will reward you for it.
+
+Many new people will join slack for this event. Please welcome them. Help them find their way, their new best friends, their home; as the Hack Clubbers of yore did for you :handshake:
+
+<https://highseas.hackclub.com|Your journey begins in the harbor.>
+
+Fair seas and following winds,
+—The High Seas Team :saluting_face:
+
+
+P.S. this is like, basically an alpha right now. there will be bugs. put 'em in <#C07PZNMBPBN|> so we can turn bugs into issues and issues into code and code into _sm*iii*les_ :hugging_face:
+
+<https://hack.af/z-join?id=uht1r8p>
+
+EYERYBODY JOIN!
+
+:sparkles: *Tomorrow: Join the Hack Club Watch Party for the GitHub Keynote* :sparkles:
+
+Tomorrow, we’re hosting a watch party for the GitHub keynote — but this isn’t just any keynote. Something big is brewing, and you’ll want to be there to catch it with us. :eyes:
+
+Bring your snacks, your favourite plushie, and join the Hack Club community for an hour of suspense, fun, and… well, you’ll have to see.
+
+*Here’s How to Join:*
+:tada: *RSVP* now at <http://hack.club/universe-2024|hack.club/universe-2024>!
+:movie_camera: *Livestream* Link from GitHub — dropping soon!
+:clock3: *Tomorrow, 30th October* at 9 AM PT / 4 PM GMT / 9:30 PM IST (convert <https://time.cs50.io/20241030T1600+0000/PT1H?title=Hack+Club+Watch+Party+for+the+GitHub+Keynote|here>) — we’re going live!
+
+Grab a seat, stay curious, and get ready to watch it all unfold. See you there! :sparkles:
+
+Hey! I'm Josias, I'm 19 from Cameroon :flag-cm:, and I've been helping run /z :slash-z:, <#C01504DCLVD|> :scrappy: and other essential services at Hack Club.
+One of my first web dev projects was a Chrome Extension for a <https://github.com/JosiasAurel/linksbook/tree/master/extension|side project>, and now I'm launching a You-Ship-We-Ship :minnie-excite: program where we'll build Chrome Extensions together!
+
+Here's how it works:
+1. :point_right: Join <#C07MQBTNVRU|> . I'll be sharing a ton of great resources to learn how to build extensions, helping you pick an idea and hosting workshops where we'll work on our projects together.
+2. :rac_yap: Once you have a working build, share it in the channel to get feedback.
+3. :rocket: Submit your final extension <https://browserbuddy.hackclub.com/|here> by November 20, 2024.
+
+Here are some cool ideas for projects:
+- Add dark mode to Google Docs :black_heart:
+- Create custom colors for websites :rainbow:
+- Track and report your weekly screen time across different sites :hourglass_flowing_sand:
+- Show your current web browsing activity as your Slack/Discord status :link:
+
+Can't wait to get started together! :ultrafastparrot:
+
+:light_rail: Choo choo!
+<https://new.mta.info/article/mta-open-data-challenge|The MTA is doing an open data challenge until the 25th Oct> (in 8 days!). They will give the best project a piece of vintage New York City Transit memorabilia &amp; I want a Hack Clubber to win it.
+
+If you complete a project (it could be a data visualisation, a piece of art, anything) using one of their datasets, come down to New York :newyork: on the 25th and we'll have a train-themed party! :light_rail:
+
+I'll be running huddles every night until then in <#C07QBJ39HTP|> working on my submission &amp; you should too.
+
+:pf: _another announcement ...wait what the hell is th-_ *HACKPAD WORKSHOPS TOMORROW!!!* :hyperbongocat: 
+
+<#C07LESGH0B0|> is a new *MACROPAD YSWS* where _you_ design your own *mini-keyboard*, and _we_ ship you all the parts to build it.  :hammer_and_wrench:
+
+We just had an AMA with <https://www.youtube.com/@joe_scotto|Joe Scotto> earlier this week. *Tomorrow (the 11th), I'll be running a workshop FOUR times on how to make a hackpad from scratch!*
+
+:tw_clock1:  Tentative schedule (in EDT):
+1. _10:30AM - 12:30PM_
+2. _1:30PM - 3:30PM_
+3. _4:00PM - 6:00PM_
+4. _6:30PM - 8:30 PM_
+There's already *500+ people* on it, so make sure you don't miss out before it ends on October 21st!
+
+:book: _tl;dr_:
+• *Join <#C07LESGH0B0|> before it ends (Oct 21st)* :blobhypedance: 
+• *Come to the workshops tomorrow* :blobhaj_plead_2: 
+• *Website at <http://hackpad.hackclub.com|hackpad.hackclub.com>* :neocat_magnify: 
+(psst... you also get custom hack club keycaps if you submit!)
+
+This Spoopy October :jack_o_lantern:, <https://hackclub.com/onboard/|OnBoard> is launching *<https://trickortrace.hackclub.com|Trick or Trace>*, a Halloween-themed PCB design contest! Have you already received your OnBoard PCB but are looking for ways to build off your original design? Or just looking for motivation and project ideas? If you’ve already taken part in OnBoard, or have never heard of it before, everyone is being given the opportunity to design a PCB and have it shipped, even if you've already used up your OnBoard grant.
+
+• Build a board &amp; ship your design, submissions open *Oct 6th.* _Not sure what to build? Maybe make <https://www.youtube.com/watch?v=GNvLpczNuDI|something spooky>_ :ghost:_!_
+• Submit your project and receive a special branded electronics accessory kit. :hat:
+• Vote on your favourite projects in the showcase gallery! :skull::trophy:
+Top-voted submissions get an unrestricted *100$ USD* grant _(not vendor-locked like OnBoard grants)_ to fab their PCB, buy parts, tools, and just in time for the Halloween season! So get started, create, update &amp; upgrade your circuit board and showcase it to all.
+
+_Check out the list of submission requirements and rules at <http://trickortrace.hackclub.com|trickortrace.hackclub.com>_. _Submissions close mid-October. Questions? Visit <#C07QMQ26X4G|> or its <https://trickortrace.hackclub.com/#faq|FAQ> section. Hack Club's OnBoard, join 1,000 other teenagers in this month of making._
+
+:rain_cloud:  _*THE SKY IS FALLING*_ :neocat_0_0: 
+
+_And in the distance, large swaths of seemingly knight-themed items rain down_ :eyes_shaking: castles... hardware... currency... and are those _dragons???_
+
+*WELCOME TO* :tw_sparkles::cloud: *LOW SKIES* :cloud::tw_sparkles:: Hack Club's ~10 hours in public heir~ two-week event where you build, battle, and power up!
+
+How this works:
+1. Work on personal projects! Use Hackatime to keep track of amount of time spent.
+2. Enter finished projects into the Thunderdome! When you ship your project, it will battle against other projects, as you and your peers vote between them in 1v1 matchups.
+3. Once your project has done ten battles, you'll get :sky-scales: Scales _(taken straight from... your opponent's dragon?)_ based on how many hours you spent on it—_and_ how it performed in the Thunderdome. Spend :sky-scales: Scales in the Shoppe for rewards, from Blahajs to Yubikeys!
+:bangbang: Start Low Skies today: <http://low-skies.hackclub.com|low-skies.hackclub.com> :bangbang:
+:blobhaj_party: Join the slack channel! <#C07PZMBUNDS|> :blobhaj_party:
+
+The dragons are calling... I'll see you in the sky! :dragon-dance:
+
+_<!here> “Launch control, this is Los Angeles. We are ‘go’ for launch!”_ :hackclubnasa:
+
+Welcome to our space station, astronaut! :female-astronaut: I’m Elianah (16, from Minnesota’s Twin Cities) and one of my favorite experiences in Hack Club has been my work with the<https://daysofservice.hackclub.com/| Days of Service> initiative. I’ve learned so much about being a leader through traveling the country to teach girls and nonbinary students<https://youtu.be/_z-q1axBx2o?si=toKek_LfUCs6hNcD| programming> and helping to foster their interest in computer science.
+
+But why stop locally when there’s the whole galaxy out there to explore? Our organizing team is excited to announce that this November, we’re gearing up to launch our most ambitious mission yet: a 3-day summit for 50 girls and nonbinary Hack Clubbers (with travel grants available! :eyes_shaking:)
+
+Join us from *November 15-17* for Athena Flight 15, where our spaceport awaits you in sunny Los Angeles! :palm_tree: Throughout the weekend, you'll connect with leading women in tech, build projects at an unbelievable Hackathon venue, and form friendships with our community members from around the world.
+
+*Ready to Ascend?* :rocket: *Apply by October 7th at 11:59 PM EST.*
+
+_(P.S: This is Hack Club’s first summit for girls in tech. Go to <http://ascend.hackclub.com|ascend.hackclub.com> to apply! Our deadline is October 7th, but we encourage applications at any time until we reach capacity.)_
+
+_To whom it may concern,_
+
+<@U020X4GCWSF> and myself would like to _cordially_ invite you to... the grand opening of *the Boba Manor* :skelly-dance: – a spooky, retro-themed HTML + CSS event that kicks off today! :jack_o_lantern::ghost: From October 1st to October 31st, you'll have the chance to design your very own scary room in our haunted manor. We want to see what you can conjure up– from skibdi jumpscares in the haunted study to dark UI patterns in the cellar! :spider_web::candle: Submit your room and be part of our haunted manor. All submissions will earn stickers, and the scariest + most creative entries will win prizes, from Nothing headphones and shirts to dinosaur skeletons! :skull::trophy: Ready to dive in? Head to <https://manor.hackclub.com> to get all the deets, and let’s make this Halloween season one to remember! :jack_o_lantern::space_invader: Happy Hack-o-ween!
+
+P.S. try to find some easter eggs <@U020X4GCWSF> hid on the website
+
+_*Boo!*_
+
+_OoooOOooooOOooooOOooooooooooohhhhhh_
+
+Now out: <#C073Y3EURP0|> documentary! It’s my favorite Hack Club video ever, and captures the magic of Hack Clubbers going on adventures together, even when the trip takes an _unexpected turn_ :sparkles:
+
+Watch it here: <https://www.youtube.com/watch?v=hiG3fYq3xUU>
+
+<!here> I’m Dev (19, from Burlington, Vermont) and I run Hack Club’s in-person hackathons (check out <https://www.youtube.com/watch?v=O1s5HqSqKi0&amp;t=67s|Hack Club’s Summer hackathon from 2023>!)
+
+Running my first hackathon in my small town in India changed my life — it helped me find people who loved computers and making things.
+
+This fall, Hack Club wants _*you*_ to bring a hackathon to your community.
+
+:sparkles: *Introducing Hack Club’s fall event:* :space_invader: *Counterspell* :space_invader:
+
+Counterspell is a beginner-friendly game jam for high schoolers happening in 200+ cities simultaneously. Artists :female-artist: , musicians :trumpet:, and coders :keyboard: will get together to build games in a weekend.
+
+Join us to organize Counterspell on *November 23-24* in your city! No previous experience necessary, and we have resources and funding to help you organize an amazing event. Counterspell is open to Hack Clubbers in all regions—  including Asia and Europe!
+
+*Sign up to organize or attend <https://counterspell.hackclub.com|here>, and I can’t wait to see your event this fall :)*
+
+<!here> :hyper-dino-wave: Hello Hello Hello :hyper-dino-wave:
+
+:cool-apple: _*Introducing Cider V2: Build an iOS app and get $100 to publish it on the App Store*_ :cool-apple:
+
+For the past three months, I ran the first iteration of Hack Club's very own iOS development YSWS called <https://cider.hackclub.com|Cider>! I am so proud to say that Cider turned out to be a HUGE success with ~25 absolutely mind blowing apps already launched on the App Store. Check out the *<https://cider.hackclub.com/submissions|brand new showcase site>* to see what so many others have built through Cider!
+
+We are so excited to *bring Cider back for the whole school year* with a bunch of cool new changes to the program!
+
+Now:
+• :no_entry: *25 users requirement removed* :no_entry:
+• *New framework added: Build your iOS apps with Flutter (in addition to Swift UI and React Native)*
+*The submission steps remain the same:*
+1. *<https://forms.hackclub.com/t/jALEZHqGE2us|Submit a demo of your app idea>:* We'll help you get it on TestFlight.
+2. Work on your app and meet all the submission requirements.
+3. *<https://github.com/hackclub/cider-website#make-your-pr|Submit a pull request when you're ready>*: We'll review your app and get it merged.
+4. *Get a $100:* Buy an Apple Developer Membership and publish your app on the App Store.
+*Club leader?* Run an iOS app development workshop in your club meeting and each member gets $100 to publish their apps!
+
+Join <#C073DTGENJ2|> now
+
+Spend 10 hours coding in the next 10 days &amp; join the party! <https://hackclub.slack.com/archives/C0C78SG9L/p1726584151192749>
+
+<!channel> ^^^^^^ :rac_yap::rac_yap::rac_yap::rac_yap::rac_yap:
+
+_Introducing_  ~The Bin Recycled~:x: *The Bin Recycled Remixed Reused*:tw_white_check_mark:.
+_With less than three weeks left of Bin_, I added some popularly requested feature to `The Bin`.
+
+Due to popular request we are adding the following parts:
+• *Stepper Motors** `(They're back in stock!!)`
+• *Up to 10 Resistors* `(About time)`
+• *Up to 10 LED's* `(You get to choose the color)`
+• *I2C adapter for LCD's* `(If requested in the form)`
+_We are also now introducing...._ `Wait for it....` *- <https://hackclub.com/bin/gallery/|A brand new Gallery just for Bin projects>!!*
+_You can now see_ *EVERY SINGLE BIN PROJECT SUBMITTED EVER!!*
+
+*<https://hackclub.com/bin/|You better get busy working on some projects>! Also*, the top 3 projects submitted before the end of bin on September 31st,
+*will receive one of every single part,* plus some other cool stuff to *hack around with (it's a surprise)* :think: 
+
+Again, you can ask questions in <#C056AMWSFKJ|>
+
+* In order to get the Stepper Motor, you must post a video of a previous bin project in <#C056AMWSFKJ|>.
+
+*<!channel>*: Sometime in the past year you may have wondered: "How does Hack Club fund all of this? How is Hack Club free? Where does the money come from?"
+
+The answer is that Hack Club is a nonprofit funded by donations, mostly from people who wish they had Hack Club when they were teenagers.
+
+Every year, <@UT2E7L19C> and I meet with dozens of people to ask them to donate to make Hack Club possible for all of you.
+
+Next week, we have one of our biggest meetings ever and we're flying across the country to go to it. *I have a bit of a crazy idea that I need your help with.*
+
+Instead of just telling this person about all of the amazing things happening in Hack Club, I want to show them. I want to make a massive 3 ring binder, where each page is 1 story from one of you on how Hack Club changed your life.
+
+I want to have over 100 pages in this binder and drop it on the table during our meeting to leave with them. I want it to be so abundantly clear how Hack Club is changing the lives of teenagers from across the world that they will be inspired to make a big donation to help Hack Club do even more.
+
+If you can take 5 or 10 minutes and write your story, I'd be very grateful: <https://forms.hackclub.com/t/rRRp6dkyNvus>
+
+<!here>::arcade: Arcade was fun and all, but it's been stealing our spotlight. Now that it's over, it's time for :sprig-dino: Sprig to take its rightful place as the foremost Hack Club experience.
+
+How will we do this? By stealing its most fun element: friendly competition. Introducing, the first :grape-jam: *Sprig Jam*
+
+Here's the rundown:
+1. From now until Monday, make a Sprig game! :technologist: Here's a <https://jams.hackclub.com/batch/sprig/part-1|great tutorial> to start.
+2. We'll host co-working calls :calling:  in the <#C02UN35M7LG|> channel. Meet other people &amp; get help on your game. They'll be on Wednesday (9/11) &amp; Monday (9/16), 7:00pm to 9:00pm EST. I'll be building a clone of <https://apps.apple.com/us/app/unblock-me/id315019111|Unblock Me>
+3. Submit before Monday (9/16) at 11:59pm EST. To submit: <https://sprig.hackclub.com/get|make a PR> :github: and fill out <https://forms.hackclub.com/sprig-jam|this form>.
+4. We'll play your game :video_game: at HQ and pick our three favorites. They'll be judged on gameplay and art.
+5. On Tuesday (9/17), we'll announce winners! :trophy: I'll laser cut a custom Sprig backplate and small plaque for each winner.
+Also, if you make a game and haven't gotten a Sprig console yet, we'll mail one to you for free when you submit! (you can get a Sprig year-round this way)
+
+<!here> Hey y’all! :hyper-dino-wave:
+
+I’m so excited to announce that <@U06HPP9GZ3R>and I will be hosting an AMA with Trina Spear this *<https://time.cs50.io/20240909T1700-0700?title=Trina+Spear+AMA+w%2F+Hack+Club&location=Virtual|Monday, September 9th @ 8 PM EST>* :blob_hype:
+
+Trina Spear is the co-founder and co-CEO of <https://www.wearfigs.com/|FIGS>, a clothing company :female-doctor: for healthcare professionals!
+• She started off the company selling scrubs in hospital parking lots to building a company worth almost $1 billion and ranking #21 on the Inc. Magazine’s 5000 fastest-growing companies in 2018 :flying_money_with_wings:
+• She played tennis at Tufts for 4 years, and is still a big sports fan :blobby-sports_medal:
+• After college she went to Harvard Business School and worked in finance
+_*Read more in <https://www.entrepreneur.com/starting-a-business/this-woman-entrepreneur-liquidated-her-401k-to-co-found/334289|her interview with Entrepreneur> where she shares some pretty great insights into how she co-built the business*_ :party-parrot:
+
+If you’d like to attend, *react to THIS MESSAGE with* :fig-cute: *to RSVP*! We also have a channel for everyone to brainstorm questions (<#C07HT9QD8P9|>).
+Thank you everyone! We hope to see you there :yay:
+
+<!here>: Replit:replit: has been an amazing tool for many of us for nearly a decade. But they just announced some pretty big price changes :flying_money_with_wings:
+
+You used to be able to code for as long as you wanted. Now, that functionality costs $120 per year.
+
+Many of us won't be able to afford this, so I've built a tool to migrate your projects off Replit
+
+*<https://hackclub.com/replit/|It's called Replit Lifeboat, because we're saving your ships :) Go try it out at ><http://hackclub.com/replit|hackclub.com/replit><https://hackclub.com/replit|!>*
+
+What makes this exporter special is it converts your entire Replit edit history into git repos, so you don't lose any data. It's the only way to export your Replit projects without losing your edit history.
+
+It's written in Rust and fully open source at <http://github.com/hackclub/replit-takeout|github.com/hackclub/replit-takeout>!
+
+The first 5,000 people who use it will get :meow-party: FREE STICKERS! :meow-party:
+
+This summer has been special.
+
+18,000 people joined Hack Club for Arcade, you logged over 117,000 hours coding, and the projects you built are mind blowing - from <https://hackclub.slack.com/archives/C0266FRGV/p1723589112041359|unnecessarily bright flashlights> to <https://hackclub.slack.com/archives/C01504DCLVD/p1723975611757839|first websites with backends> to <https://hackclub.slack.com/archives/C01504DCLVD/p1722293605307039|game engines from scratch>.
+
+Hack Club is about celebrating making things.
+
+We want to end this summer with our final surprise.
+
+*Introducing the Arcade Showcase*
+
+Here's how it works:
+
+1. Run `/showcase` to submit the projects you built this summer. You can submit as many as you want.
+2. Submissions close this <https://time.cs50.io/20240825T2359-0700|Sunday (8/25) at 11:59 PM Pacific Time> (click for timezone conversion)
+3. There will be 3 rounds of peer judging. Categories: _Creativity / Originality_, _Technical Awesomeness_, and _Best Overall._
+4. 1st place winner will receive *a round-trip flight & hotel to San Francisco on October 27th - 30th + a <https://githubuniverse.com/|GitHub Universe> ticket.*
+
+2nd & 3rd place winners will receive <https://www.youtube.com/watch?v=AHQOhuUI_gc|Bambu Lab A1 mini 3D printers>.
+
+For the 4th place winner - all the remaining Arcade swag (>1,000 posters, stickers, and postcards) will be thrown in a box and sent to you. This is the best prize.
+
+_*How judging works:*_
+
+3 rounds of judging. For each round:
+
+1. Projects will be put into groups of 18 projects
+2. Each project author will rank the top 3 projects in their group. A project can rank in multiple categories.
+3. The scores for the 3 categories will be combined and the top 3 projects in each group will advance to the next round
+
+_*Prize details:*_
+
+Round-trip flights & hotel to San Francisco + GitHub Universe ticket are *available anywhere in the world*. You just need to be able to get a US visa in time. At least 1 person from Hack Club HQ will be there in San Francisco with you. If you win and are not able to get a visa in time, the alternative prize is a <https://us.store.bambulab.com/products/p1s|Bambu Lab P1S Combo 3D Printer> and the flights + hotel will go to 2nd place winner.
+
+_*Submission:*_
+
+Each project will have a page on <http://hackclub.com|hackclub.com> for peer judges in their bracket to view. The text from the page is pulled from your GitHub repo's `README.md` file. Please make your `README.md` awesome to give your project the best chance in front of peer reviewers.
+
+Not to toot my own horn, but this is an example of an awesome README: <https://github.com/zachlatta/sshtron>. Good READMEs have:
+
+1. Instructions on how to run the project, including any CLI commands
+2. Screenshot or GIF demo
+3. Short, understandable description and background on the project without too much yapping or flowery language
+
+At the end, a public project gallery will live forever on <https://hackclub.com/arcade>! Can't wait to see your projects!
+
+_A machine_ :robot: _waddles up to where you stand. It's the size of a large book_ :book:_, but constructed of post-consumer aluminum and recyclable_ :recycle: _plastic. It features 6 expansion slots for easily swappable I/O, modular graphics_ :pcb:_, and a customizable input module system_ :three_button_mouse::keyboard:_. Could it be..._ a :framework: Framework 16!?
+
+We're excited to announce that <@U05C64XMMHV> and I are co-hosting an *AMA with Nirav Patel, founder and CEO of Framework Computer,* on *<https://time.cs50.io/20240824T1200-0500?title=Nirav+Patel+AMA|August 24th @ 1 PM EST> (*10 AM PST / 10:30 PM IST / 6:00 PM BST)!
+
+• :framework: In 2020, Nirav founded Framework, a SF-based laptop manufacturer, to revolutionize the laptop industry by designing repairable, upgradable, and sustainable products.
+• :recycle: Nirav believes in reducing environmental impact through sustainable design and challenges industry norms that prevent repairs like proprietary screw heads (looking at you, Pentalobe) and "warranty void if removed" stickers.
+• :facebook: :appleinc: :oculus: Nirav previously held engineering roles at Apple and Facebook, and he was one of the founding members of the Oculus team.
+• :spongebob-imagination: Nirav created <https://www.unitedspongebob.com/|United SpongeBob> in 2002 as a Freshman in High School.
+• :eclecticc: Nirav occasionally writes blog posts about hardware, business, and design work on <https://eclecti.cc/|his blog>.
+*RSVP by reacting with a* :framework: *emoji!*
+
+`Hello fellow humans!` <!here>
+
+I'm Nicky, I've made <https://ncase.me/trust/|games about game theory>, a <https://ncase.me/anxiety/|choose-your-own-adventure story about anxiety>, and <https://ncase.me/fireflies/|that one website about fireflies>.  This year, I've been collaborating with Hack Clubbers to make a looooooooooooooooooooooooongform series about making safe, humane, not-crappy AI!
+
+Part One came out a few months ago: <https://AISafety.dance/>
+
+But today, we're finally launching... Part TWO (2)!
+
+:robot_face: *<https://aisafety.dance/p2/|AI SAFETY FOR FLESHY HUMANS: PART 2>* :robot_face:
+:scream_cat:_~50 minute read_:scream_cat:
+
+Huge thanks again to all the Hack Clubbers who read the drafts for Part 1 &amp; 2, and linked me to extra resources!  But 2 parts down, 1 more to go...
+
+*How you can help for Part 3:* (launching on Halloween 2024 :jack_o_lantern:)
+
+• *Join the* <#C05HMS8N09E|> *channel!*
+• Since Part 3 is about proposed solutions for AI, *share any useful links, blog posts, ArXiv papers, etc* on that channel!
+    ◦ (Specifically, if any of you are big into mechanistic interpretability or shard theory, hit me up, those are currently my weakest areas of knowledge!)
+• Also, I'll be updating Part 1 &amp; 2 a bit, so *share any corrections/typos for Part 1 &amp; 2.*
+• *In the middle of October, I'll send out a draft for Part 3*; I'd love your feedback then!
+Thank you again so much! Beep boop.
+~ Nicky Case
+
+*P.S:* Did I mention this series is full of Robot Catboy Comics, like the one below?
+
+Now out: <#C06RQ9TTEG3|> documentary! One of the best Hack Club videos ever. Filmed and directed by <@U045B4BQ2T0>.
+
+<https://www.youtube.com/watch?v=ufMUJ9D1fi8>
+
+_rummage._
+*RUMmage*. *RUMMAGE*…
+*rAcCoOn??*
+:rac_yap: :rac_yap: :rac_yap:
+What's that??
+_The BINNNN???_ That's right! `The Bin is Back`  *_The Bin_ has been recycled* :recycle:*!*
+*Build a working* design in wokwi (_an online breadboard sim_) *and get the parts shipped IRL to build your own circuit!*:cold_face:
+_Now introducing_ :arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right:
+    ◦ *Brand new components!!* :tw_new:
+    ◦ _International shipping_ :earth_africa:
+    ◦ `Drastically shorter wait times` :alarm_clock:
+*What are you waiting for?*
+If you haven't tried onboard yet, this is a good way to _nibble_ at :rac_yap:electronics
+plus can gain :tw_admission_tickets:`Arcade tickets`:tw_admission_tickets: :arcade1: :arcade1:*while* getting shipped components:electric:
+go to *<https://hackclub.com/bin/>* to get started and ask questions in <#C056AMWSFKJ|>.
+
+*Remember* Don't trash talk,:sweat_drops: `one man's trash is another man's circuit boards` :pirate_flag: come dumpster diving with us:dumpster-fire:, its trashy but classy.:star2::weary:
+
+new arcade update just dropped by <@U04KEK4TS72> on her first day in-person! This &amp; future updates will happen in <#C07AXU6FCC8|> so we don’t flood the <#C0266FRGT|> channel: <https://hackclub.slack.com/archives/C07AXU6FCC8/p1719623040513769>
+
+Dearest pilgrims.
+
+Big day today! Some of you know what's up already. For everyone else, let's get you caught up. And for you newcomers… welcome! We are so glad to have you here :hugging_face:
+
+Today we're launching the <https://hackclub.com/arcade/|Hack Club Arcade>!! The Arcade is built around a straightforward feedback loop: *Make Stuff* :arrow_right: *Get Stuff* :arrow_right: *Repeat* :arrows_clockwise:
+
+Our mission is to support you, the teenage hackers of the world… and this summer GitHub, Flipper Zero, Framework, Adafruit, Yubico, and other major partners have supercharged that mission with _hundreds of thousands of dollars_ worth of donated resources, to be granted to you with no strings attached.
+
+For the rest of the summer, any time you spend on technical projects can be recorded in Slack :clock1:, exchanged for Arcade tickets :admission_tickets:, and spent on prizes :gift:. Prizes range from sticker packs and soldering irons to MacBooks and Bambu 3D Printers. Hack Club exists for teenagers who ship. If you're reading this, that's probably you… which means this is your chance! You have all summer to get what you need, simply by doing the things that you love. We built this for you.
+
+Gonna be real for a moment: this is the largest single event Hack Club has ever run, and it was built in about two weeks. It's imperfect. Things will break. It's Hack Club at its hackiest—and its best!! This was an unexpected opportunity that we jumped on and shipped at warp speed to give you as much time as possible to _make stuff, get stuff, repeat_. *The Arcade closes August 31st.* Make the most of it!
+
+Questions? *<https://www.youtube.com/watch?v=yF0xPUL2sRs|This video>* and this *<https://cloud-a29o1kr4n-hack-club-bot.vercel.app/0untitled_artwork_31.png|handy guide>* might clear some things up! For anything else, post to <#C077TSWKER0|>
+
+*Ready to begin? Run `/arcade`*
+
+Two years ago, I stumbled across <https://bruno-simon.com/|Bruno Simon's personal (3D) website>...and it blew my mind :mindblown:
+
+My 13 year old self immediately started to wonder: how could I make something as amazing as this? and that's when I learned about <https://aframe.io|A-Frame>, a simple way to construct 3D websites in under 40 lines of code.
+
+This summer I wanted to ship something that would have dug into my younger self's curiosity. And that's why I present to you....
+
+
+:frap: _*Hackaccino: Build a 3D website and get a free frappuccino*_:frap:
+
+
+It's simple: create a website in A-Frame :aframe:  and submit it at <https://fraps.hackclub.com/> to get a free frap!
+
+_psst: join <#C078DFVL5LZ|> for more details (and some cool events!)_
+
+:video_game: :hourglass: *Hack Hour Presents: Arcade Hour* :alarm_clock: :joystick: 
+
+Heyo folks! Thanks to the ~plundering~ generous donations of <@U0C7B14Q3>’s wallet and <@U04KEK4TS72>’s ~irresponsible~ eccentric economic policies, we’re proud to announce *ARCADE HOUR!!!* :arcade:
+
+From *today until June 7th*, play the arcade! Here’s how:
+1. Use `/hack` (ie. “/hack my personal website”) in <#C06SBHMQU8G|> to activate a 1 hour timer! Use this time to work on any project.
+2. Once your project is done or you hit a milestone, bank your hours by posting in <#C0M8PUPU6|> or <#C01504DCLVD|>. You’ll get a DM from <@U06TW2N6C5R> to confirm the hours you’ve spent on your project becomes the number of hours you’ll earn from it!
+    a. YSWS projects count for a fixed amount of hours (ie. boba: 0.5 hours, onboard: 4 hours) _OR_
+    b. Make your own project and you’ll get the full number of hours!
+3. Buy prizes! Visit <http://hackclub.com/arcade|hackclub.com/arcade> to check out the entire prize counter list.  We’ve got a wide range of offerings, from breadboards to drawing tablets. Buy as much as you can afford!
+4. At the end of the event, we’ll ship everything out to you!
+
+Broke, but want to window shop for now? No worries, check out the Arcade site here: <http://hackclub.com/arcade|hackclub.com/arcade>
+
+Have fun, and happy arcading :yay:
+
+:eyes_shaking: has anyone seen my wallet?
+
+:wavee: _*Introducing Hack Club Cider*_ :sparkles:
+
+I love making websites. They're awesome. But I always wondered how I could build iOS apps. Turns out, it's not that hard! _However,_ the biggest challenge I faced was the $100 fee to publish my app to the App Store. Spoiler alert: My parents said NO :sob:
+
+:blobby-rocket: Well, that's why, I'm running Cider: A *$100 grant program* to buy you an *Apple Developer Membership* to help you design, code and ship an iOS app to the App Store in 30 days.
+
+*So how do I get started?*
+
+1. Join *<#C073DTGENJ2|>* &amp; head over to *<https://cider.hackclub.com>* for submission details
+2. Hack on your project and once you have a work-in-progress *<https://forms.hackclub.com/t/jALEZHqGE2us|we'll put you on TestFlight>*
+3. Join _*weekly co-working sessions*_ in *<#C073DTGENJ2|>* and work on your apps together :workworkwork:
+4. Get 25 users on your TestFlight before _*30th June*_ to get a developer license.
+*<https://forms.hackclub.com/t/jALEZHqGE2us|Fill this out once you have a working demo (doesn't need to be a full app)>*
+
+Dear hacker,
+
+Every summer Hack Clubbers do something special.
+
+We travel across the world to attend hackathons, run virtual events worldwide, and spend hours building projects we care about. All for one goal: to build the world we want to live in.
+
+*This year, join us on our next great voyage: A Transcontinental Hackathon Across Canada.*
+
+This is not a regular hackathon. It’s not summer camp. This is a journey for you to discover new ways of living life. Discover what the world has to offer.
+
+On July 21, the night of the full moon, we start our 8-day expedition in Vancouver. We’ll go through the Canadian Rockies, passing through Jasper, Winnipeg, and Toronto, concluding in Montreal.
+
+Together, we will travel through one of the most pristine remaining lands on earth, only accessible by rail. Onboard the train, you would build projects alongside some of the most kickass engineers, artists, hackers, and scientists working on highly technical solutions to save the environment.
+
+This is your invitation to build the things you care about and see your actions change the world around you. <https://boreal.hackclub.com|Join us aboard The Boreal Express.> Invites go out June 10th.
+
+Join the crew in <#C073Y3EURP0|>!
+
+:sparkles: Learn how to write a programming language with Orpheus :sparkles:
+
+Hey friends! I'm <@U03MNFDRSGJ>. I'm 17, and I used to always wonder, how exactly do programming languages work behind the scenes? How do you build a programming language? I thought it was a super daunting task until I went to a workshop run by another Hack Clubber, <@U03V4686P9N>, and learned that it's actually not that hard!* And, as it turns out, super fun. So I went home and wrote a programming language around fire :fire: called <https://hackclub.slack.com/archives/C0M8PUPU6/p1686142103797689|Arson>, whenever I had free time during AP week.
+
+Now, a year later, Orpheus approached me with a little story about how she learned how to write programming languages. I've spent the last 3 weeks consolidating this adventure, which involves a mysterious sender, a mysterious letter, and most importantly, a weekend guide on how to write a programming language, so you can now learn how to write a programming language with us in just one weekend!
+
+And if you ship a programming language after you're done going through the guide, we'll ship you fudge! :fudge2: And to sweeten the deal (if it isn't sweet enough, hehe), we'll be running a programming language jam from now until the end of the school year where you'll join us in <#C06T22ZFQGP|> to hack away on your programming language, and the top five programming languages as determined by the community will win a copy of <https://www.amazon.com/dp/0990582930|Crafting Interpreters>!
+
+Start this weekend (yes, you can!) by reading <https://easel.hackclub.com> and joining me and Orpheus and everyone in <#C06T22ZFQGP|> and building your own programming language! See you there ;)
+
+
+
+```How do you do, fellow humans! How's the respiration today? Metabolizing all your favorite inputs &amp; outputs?
+
+Anyway, you know how we humans have Natural Intelligence? Apparently there's this thing coming up called "Artificial" Intelligence (AI). I mean, *I* think silicon's as natural a substrate as carbon, but what do I know as a normal liquid-drinking human.
+
+Point is, AI could be a big deal, so let's try to make it safe &amp; humane! Heh, "humane". To help folks understand how, I &amp; some prototype-humans ["teenagers"] at Hack Club have made...```
+:robot_face: *AI SAFETY FOR FLESHY HUMANS* :robot_face:
+:scream_cat: <https://aisafety.dance/>:scream_cat:
+
+```Your one-stop-shop to understand all the core ideas of AI &amp; AI Safety, filled with pictures! There's also a Robot Catboy Maid, see attachment.
+
+CALL TO ACTION:
+1. Read the thing
+2. Let me &amp; your fellow humans know your thoughts in the Slack channel
+3. If: you share your thoughts, Then: you get free Robot Catboy stickers!```
+:dancer:  <#C05HMS8N09E|>  :dancer:  (read it, post thoughts here, get stickers~)
+
+```This channel was how you prototype-humans have been gifting me feedback to make this series great! Don't worry if you missed the beta-review period for Part One -- there's Part Two &amp; Three yet to come.
+
+Anyway, enjoy having emotions &amp; clicking on pictures of traffic lights, fellow humans!
+
+Aligned-ly Yours,
+~ Nicky Case```
+
+
+:radio: _*See into the invisible world*_ :sparkles:
+
+
+Have you ever looked at a radio and wondered, _how does this box send signals that other people can hear?_ There’s an elite network of radio operators across the world transmitting messages constantly– the room you’re currently sitting in. :globe_with_meridians:
+
+
+With <https://en.wikipedia.org/wiki/Amateur_radio|Ham> (amateur) radios, you can run your own station and...
+• Talk to <https://www.ariss.org/contact-the-iss.html|astronauts> :astronaut: 
+• Listen to <https://en.m.wikipedia.org/wiki/Airband|airplane> :airplane:  <https://www.youtube.com/@VASAviation/videos|captains> talk as they fly overhead
+• Spy on firefighter/cop broadcasts :hear_no_evil:
+It takes some practice, but once you learn how to use a ham you can get a license from the FCC & earn a callsign (it’s like a username for radio operators).
+
+
+*YOU:* Earn your ham callsign *between Apr 29th & May 31st*
+*WE:  SHIP YOU A HACKABLE HAM RADIO!* :dancing-ham:
+
+
+To get started...
+• React with :dancing-ham: to commit!
+• *Hop into for ham hour (<#C01G6UJT2RM|>)  8-9pm Eastern Time for the next 14 days* in the <#C01G6UJT2RM|> channel
+• Check out <http://ham.hackclub.com/help|ham.hackclub.com/help> for a list of resources
+• Put your progress in <#C06SBHMQU8G|> and/or <#C01504DCLVD|> with the :dancing-ham: emoji
+
+*<https://forms.hackclub.com/t/4xrbpF32B8us|Fill this out once you’ve earned your callsign>*
+
+
+_p.s. already have a callsign? reply with it in here!_
+
+:hourglass: :fist:  _<#C06SBHMQU8G|>_ _*Presents: Power Hour*_ :fist: :hourglass: 
+
+Hello there! I am <@U04QD71QWS0>, the inventor of numerous products such as <REDACTED> and <REDACTED>. But today, after days of toil, I present to my fellow hack clubbers... _*Power Hour*_, running *Apr 27 to May 4th.*
+
+What’s Power Hour you may ask? Well, leveraging the bot I’ve developed with the fantabulous <@U06TW2N6C5R>, you’ll be able to commit to daily hacking, by simply running `/hack` in <#C06SBHMQU8G|>! And if the community achieves a sum of 100 hours this week, everyone who clocked in at least 7 hours using the bot will receive a hackable :raspberry-pi-logo: PI CLOCK*!!!!! :blobhypedance: :blobhypedance: :blobhypedance:
+
+To RSVP, *reply in this thread with some goal* you want to get through in the next week to get pinged when it starts! I’ll be looking forward to <#C06SBHMQU8G|>ing with you all!
+
+_*If you're in a country where you cannot receive a pi clock, we'll send fudge instead_
+
+Hello friends! Announcing Hack Club’s grand new adventure, *The Trail* :mountain:
+
+When we thought about how we’d like to spend the rest of the school year &amp; summer, we realized we wanted to spend it at a magical hackathon alongside all of you, Hack Clubbers &lt;3
+
+This summer, *30+ Hack Clubbers will travel to The Pacific Crest Trail for <#C06RQ9TTEG3|>* _—_ the world’s first hikeathon! We will start near San Francisco and hike for 7 days across some of the most beautiful trail in the world, supplied by equipment we build ourselves – headlamps, compasses, stoves, radios, and more.
+
+Join us for this incredible adventure from July 12th to July 19th. Travel reimbursements available.
+
+1. <https://trail.hackclub.com/|RSVP for The Trail>. Kickoff event May 1st.
+2. *Build* your equipment with your friends from May 1st to June 1st in <#C06RQ9TTEG3|>. Anyone who completes a piece of equipment will receive an invite to come!
+3. *Hike* in-person with 30 Hack Clubbers along the Pacific Crest Trail with the equipment we made for 7 days
+More details &amp; RSVP at: <https://trail.hackclub.com>.
+
+PS: everything from meal kits to our exact hiking route is being worked on publicly in the Slack. Interested in helping out? We’d love that; head over to <#C06RQ9TTEG3|>!
+
+rummage.
+RUMmage.
+RUMMAGE…
+rAcCoOn??
+
+:rac_yap: :rac_yap: :rac_yap:
+
+`You've reached the bottom of the trashcan...` What did you find? An…_empty bin_?!
+
+You look around, confused. And a tiny bit sad :sad-yeehaw:. But wait! A raccoon pulls on your shirt and points at the ground. It points at all the sensors and Arduino’s you’ve pulled out. Maybe…_just maybe_…the trash was the treasure all along??? :thinkspin:
+
+:rummage: :rummage: :rummage:
+
+Over the next two months, I’m running an experiment. *Hack Clubbers from all over the U.S. will rummage through The Bin, pick out parts of their liking, and build a project of their own design.* There are no costs, and there are no strings attached. *Just a package* :package: *shipped to your door.*
+
+*<https://hackclub.com/bin/|RSVPs are currently open>.* We’re launching once we hit 500.
+
+So, be free and RSVP! The parts are coming. It's time to look inside The Bin.
+
+_Due to a high volume of activity, we are not displaying some messages sent by this application. • <https://api.slack.com/docs/rate-limits|Details>_
+
+:wastebasket:
+
+I’m very excited to share that the <https://blot.hackclub.com/|Hack Club Blot> is finally publicly released!
+
+Blot is the next installment in our “You Ship, We Ship” series. If you work hard to create some nice programmatic line art and share it in the public gallery we’ll send you the parts to build a robotic CNC machine that can turn that art into a real thing.
+
+One of the subjects that really captured my imagination and drew me into technology was digital fabrication. This is the practice of using computers to make real physical things (like 3D printers). In Hack Club we often talk about coding feeling like a magic super power. Personally this feels most true when I can write a special incantation on my computer that materializes into a real object in front of me. We made Blot to make all of the core ideas of digital fabrication accessible to you.
+
+Some of the best programmers I know honed their skills making visual art pieces. It’s an amazing practice that can change how you look at things. You’ll start seeing patterns everywhere and wondering “how could I program that?”
+
+I’m incredibly excited to fuse CNCs and programmatic art, two subjects I love, and to share those things with you.
+
+To learn how to use the editor you can work through <https://blot.hackclub.com/editor?guide=start|this guide>. If you have questions or get stuck you can ask for help in <#C04GCH8A91D|>.
+
+I can’t wait to see what you make!
+
+Much thanks to <@U01FGQ5V9L5>, <@U02KEJ8T6D8>, <@UKWAR6XFS>, <@U04BBP8H9FA>, <@U017EPB6LE9>, <@U01D6FYHLUW>, <@U0C7B14Q3>, <@U063QV6B8LD> and everyone else in the community that has contributed to the project so far.
+
+:sprig-party: From tonight to (April 5, 2024 @ 8pm EDT) to April 19,2024 @ 12pm EDT, We're hosting another Sprig event-this time in collaboration with Dave Padilla, a producer on :penny: Penny's Big Breakaway!
+
+If you build a game using assets from our Penny's Big Breakaway asset pack, the top 5 games as voted on by the community will receive a free copy of Penny's Big Breakaway on windows (or linux via <https://www.protondb.com/app/1955230|proton>!) You can participate whether or not you have a Sprig already, and you can get your Sprig at the same time by making a game with this <https://sprig.hackclub.com/share/nSkVqpI6YoUOqDTQW9fV|asset pack> :party-parrot:!
+
+Submission requirements:
+
+Meet the standard requirements for getting a :sprig-dino: sprig found <https://github.com/hackclub/sprig/blob/main/docs/GET_A_SPRIG.md|here>
+
+Your game takes advantage of the Penny's Big Breakaway AssetPack:
+Uses the character model of Penny as a player character within the game
+(Optional) uses the penguins as the main antagonist within the game
+
+* Hackers outside the :us: USA take note: Our aim is to ship everywhere except US-sanctioned and trade-/mail-restricted nations. While we do cover shipping costs, you may be subject to customs fees. We can't predict what those will be.
+
+At the end of the event period, all games merged into the Sprig repository with the tag #penny will be shared by the Sprig team in the <#C02UN35M7LG|> channel of the Hack Club Slack to be voted on for :clock2: 24 hours. The top 5 voted on games will receive the game!
+
+_WATCH OUT_ :bangbang:
+
+:zombie: Behind you: a zombie, clawing at the pavement of the alleyway you stand in. _It crawls towards your heels._ Ahead of you: Shopify’s Toronto office, illuminating light from within. _Shelter_. :office:
+
+You run, stumbling through the revolving doors, locking yourself in—but a horde is amassing at the entrance. You’re safe, but only for 42 hours.
+
+Here’s your mission, should you accept: hack something, _anything_, to survive.
+
+:apocalypselogo: *WELCOME TO APOCALYPSE.* :apocalypselogo:
+
+Join us :date: May 17-19 in downtown Toronto for <#C06SGG2AGHJ|>: :hackclub: Hack Club's first flagship event in Canada, our spring event, and Canada's largest high school hackathon!
+
+Take yourself out of the real world and build fun, wacky, weird projects to spark a new age of survival :yay:
+
+Sign up now: <https://apocalypse.hackclub.com|apocalypse.hackclub.com>
+
+Hi everyone, I am extremely sad to say that the University of Texas has backed out of the deal. It seems they took a stroll through <#CNMU9L92Q|> after slackbot recommended it to them and were unhappy with some of the content.
+
+I know this is disappointing to many here, but we will get through it together. Thank you all for making this a brief beautiful window where we could imagine a bigger, brighter future for Hack Club :smiling_face_with_tear:
+
+For any who already filled out their Attestation of Academic Adequacy Waiver, we will still honor the fudge. Just make sure to include the $0.26 processing fee (cash or check).
+
+Oh my, I almost forgot! I know this will be a bit of a "transitory period" as they say, and some of y'all may not have the 3.5 you need. So if you need an extra year to get your grades up, don't worry—we got your back! Just fill out this form and send it in to that same address above with a $0.26 processing fee (cash or check).
+
+<@UDK5M9Y13> tells me he'll still send you fudge… maybe you can eat it alamo'd :laughballs:
+
+Hey everyone, I’m very excited to bring you a new initiative that I think is the future of Hack Club… and once you have a chance to think about it, I’m pretty sure you’ll agree!
+
+After years of investigation from a game design perspective, I’ve determined that the biggest problem with the Hack Club Slack is that you’re not increasing your _score_. If you could get school credit for participating here, we would finally be able to compete with activities like sports :exploding_head:
+
+That’s why I am so excited to announce that we are the first public partners of the TEACH Initiative, a new modernization program from the Texas Education Agency and the University of Texas! Starting this upcoming school year, you will be able to claim participation in the Hack Club Slack for at least 1 hour a day as if it were a seminar college course taken at UT Austin! These credits only apply at the University of Texas right now, but don’t worry, we’re working on that :wink: Soon we hope it will count for any university in the Lonestar State :texas-flag:
+
+Working with major institutions like this means some new requirements, which we have negotiated extensively to make them as friendly and simple as possible. So starting in May, all US students will be required to maintain a *GPA of 3.5 or above* to participate here. We understand this new rule may be controversial, but it was the only way the University of Texas could get the assurance of excellence that they need to treat our Slack on par with participation in a seminar class.
+
+Verifying your GPA is a breeze. All you have to do is <https://cloud-hgj6m2p7l-hack-club-bot.vercel.app/0attestation-of-academic-adequacy.pdf|print this form>, get it signed by the required parties, and mail it in with a processing fee of $0.26 (cash or check) to the following address before April 15th:
+
+&gt; The Hack Foundation
+&gt; 15 Falls Road,
+&gt; Shelburne, Vermont 05482
+Make sure to put your return address on the envelope so we can send you fudge :fudge2: as a thanks for what we know is an inconvenience to your slack experience!
+
+Would love to hear your feedback on this exciting new concept :heart:
+
+Have you guys watched <https://www.youtube.com/watch?v=Cu0akj9uxyM|videogamedunkey's recent YouTube video> on the popular game :penny: Penny's Big Breakaway? Well, guess what? This *Friday, April 5th at 7 PM EST*, you'll get the chance to talk directly with the creator of this game!
+
+:star2: Join us in welcoming *Dave Padilla*, the creative genius behind Penny's Big Breakaway. Hosted by <@U040N4ESCEL> and <@U04FMKCVASJ>, Dave will share his incredible journey in game development. If you've ever wanted to make a Sprig game, or if you're curious about the ins and outs of game dev, this AMA is for you!
+
+:poggers: But that's not all! Following the AMA, we'll be giving out 5 license keys for the game as a part of a *two-week-long Sprig event:* Create a game featuring the :penny: Penny character (asset launching Friday) and you might just snag a free steam copy of the game!
+
+Plus, we'll be rolling out an exciting new feature in the Sprig editor on Friday - :sparkles: Custom Themes :sparkles:. Now, you can jazz up your editor with awesome themes, including a brand-new one inspired by Penny's Big Breakaway!
+
+*React with* :penny: *or reply in this thread with “rsvp” to get a notification before we start – we’ll post the call link there*. We can’t wait to see you on Friday! :wavee:
+
+Did you know that the :iphone: iPhone logic board was designed by 4 people? Did you know that *you’ll have a chance to* *talk to some of them this Friday?*
+
+Join us *this Friday, March 22nd at 6 PM EST* as <@U015X5P6KAM> and I welcome :appleinc: Apple engineers Daniel Castle and Chris Conard! They are the incredible makers behind the iPhone and Mac Studio main boards :pcb:. Daniel and Chris will walk us through their design journeys. Interested in circuits? Or just an iPhone owner? This AMA is for you!
+
+This is personally a dream come true because I’ve been into circuit boards as a hobby but I’ve never had the chance to talk to someone who’s built boards used by _millions of people around the world_ :world_map:_._
+
+*Reply in this thread with “rsvp” to get a notification before we start – we’ll post the call link there*. We can’t wait to see you on Friday! :wavee:
+
+hellooooo everyone! :hyper-dino-wave:
+
+Me, <@U05S7BACW4R> and <@U05F4B48GBF> are super excited to announce that we will be hosting *Cleo Abram* for a Hack Club AMA, on Saturday, Mar 23, 2024 at 11 AM EST / 3 PM UTC / 8:30 PM IST.
+
+And believe me, when I say excited, I mean we’re hackin’ stoked to have y'all join us… so be very sure to *RSVP by filling out the form <https://airtable.com/appkdvBwzn0GZv0tU/shrZMIwURJmb3LSq3|here>*.
+
+Haven’t heard of Cleo? Well, first of all, I really don’t believe you. I’ll share some interesting facts about her, so you can come prepared with some pretty amazing questions:
+
+• :movie_camera: She is an *Emmy-nominated* independent video journalist on YouTube.
+• :computer: On her show, *<https://www.youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk|Huge If True>*, she explores technology topics with rigor and optimism, helping her audience understand and appreciate the wonderful world of tech we at HC love so much.
+• :diamond: Before going independent, Cleo was a video producer for Vox. She also wrote *<https://imdb.com/title/tt11167964/?ref_=ttep_ep5|Coding> And <https://imdb.com/title/tt11356968/?ref_=ttep_ep10|Diamonds>* episodes of Vox’s Netflix Show *<https://www.netflix.com/in/title/80216752|Explained>.* 
+• :robot: She has sparked so much positivity around cool stuff like <https://youtu.be/nAgTgwak7ME?si=RgHzSrnvCK7O8gcB|Boston Dynamics’ Atlas>, <https://youtube.com/shorts/O1dLluhZygQ?si=NXmLx2mluzH4jW2e|Quantum Computers>, <https://youtube.com/shorts/xHQrSOwRrow?si=fC6dowEo8lpTgJIP|Plastic-Eating Worms> and sooo much more stuff I possibly couldn’t do justice here.
+So, Hack Club, what will *YOU* ask her?
+
+Hack Club Wonderland is next weekend in Boston! *<https://wonderland.hackclub.com/register|Register now.>* Travel grants are still available!
+
+Like the show MasterChef, participants will be given mystery boxes with ingredients for projects. How will you combine a receipt printer and a python GIF library? What about a keyboard and an RC car? Join us for 48 hours of this unconventional hacking!
+
+I can’t wait to see you there! A bunch of people, myself included, are coming from HQ in Vermont to attend!
+
+<#C06C6C646M6|>
+<https://wonderland.hackclub.com/|Website> | <https://drive.google.com/file/d/1Tz4DPob0kh6dLeSM27e_6vLiAktYpgka/view|Poster> | <https://docs.google.com/document/d/11nV2hwKByTDsBBbdkaHdtNoPuEuaDd8KBH9irAumDns/edit?usp=sharing|FAQ>
+
+Hey! I just want to boost this awesome event coming together ran by <@U0616280E6P>. I’m participating, and you should too!
+
+Here’s how it works:
+
+1. Commit to working on a technical project every day for 10 days, from Feb 15th - Feb 25th
+2. Post daily updates in <#C01504DCLVD|> 
+3. Get fudge mailed to you if you make it all 10 days!
+RSVP by posting what you’re going to work on in the thread reply to <@U0616280E6P>. I’ve been working on <https://hackclub.slack.com/archives/C01504DCLVD/p1703035685915619|programming a receipt printer> to print every time someone wins a <#C02UN35M7LG|>, <#C056AMWSFKJ|> grant, or <#C04GCH8A91D|>. My goal is to finish and productionize it, so other people can have receipt printers too.
+
+<https://hackclub.slack.com/archives/C045S4393CY/p1707617574999979?thread_ts=1707617574.999979&amp;cid=C045S4393CY>
+
+hii hack club :hyper-dino-wave: BEYOND excited to announce that in two weeks, <@U015X5P6KAM>, <@U02KEJ8T6D8>, and I will be hosting an AMA with <https://achievement.org/achiever/michael-dell/|Michael Dell>, founder and CEO of Dell Technologies :dell::laptopparrot:
+
+
+AMAs are a chance for us hack clubbers to ask influential leaders any questions we want! I'm specifically curious about who _he_ sees as a role model for his entrepreneurial mindset (he's literally a modern-day Rockefeller :star:).
+
+Some facts I found intriguing about Micheal:
+• :college:  He was always fascinated with electronics :pcb: and business and at 19, he started PCs Limited (now Dell) from his dorm room with just $1000 (soon thereafter, he dropped out of college to pursue his company) — (totally would've loved hack club)!
+• :floppy_disk: At 15, he took apart an Apple computer to figure out how it worked
+• :rolled_up_newspaper: He started his entrepreneurship streak early! in high school, he took a job selling newspaper subscriptions and earned $18,000 in a month
+• :camera_with_flash: At 27 y/o, he became the youngest CEO of a company ranked in Fortune 500 &amp; is currently the 15th richest person
+• :thinking: Since its founding, Dell has sold more than 700 million computers!
+What do you want to talk to him about?
+
+Join us via :zoom: on *January 26th, 7 PM EST* &amp; *RSVP by reacting to this message with* :dell:
+
+_peep: Michael_ _at his college dorm room at University of Austin, Texas_
+
+:hole::rabbit2:
+*How would you and your friends use a* :carrot:*carrot in a hackathon project?*
+
+How would you incorporate a :keyboard:keyboard, a :teddy_bear:stuffed animal, and maybe a JS library that only gives you ASCII :cow2:cow art?
+
+That's what you'll have to figure out in Wonderland.
+
+*This winter, we’re limiting ourselves to the fabled _chest_* :toolbox:*:* a mysterious mish-mash of tools, parts, and useless libraries. From the finitudes of this chest, comes the infinities of Wonderland.
+
+So, for forty-eight hours in the heart of Boston, join me in this rabbit hole. Find your parts, tools, and libraries to create something truly *_wonderful_.* 
+
+This winter, I’m getting lost. _*Will you?*_
+
+<https://wonderland.hackclub.com/|RSVP now!>
+See you in Boston on Feb. 17 - 19th!
+:evergreen_tree::rabbit2:
+
+:shawn-annoy: I woke up one morning and realized something. As I looked beside me to the Sprig I sleep with every night, I noticed its distinct lack of... _swag_.
+I knew in my heart that only one man was styling hard enough to change this. Not just for myself, but for all the Sprigsters out there who've felt alone, abandoned, and un-cased.
+
+*SHAWN  X SPRIG :*  :snowing: *WINTER CASE DROP* :snowing: 
+_THAT'S RIGHT, I AVOIDED BEING REPRIMANDED BY MY MANAGER FOR SLACKING OFF BY PIVOTING MY PET PROJECT INTO A LIMITED EDITION DROP_ 
+
+_*Available only Dec 15-Jan15.*_
+
+There are two ways you can get this :ice_cube: for your Sprig:
+
+<https://sprig.hackclub.com/get|Submit your first ever Sprig game>!
+_or_
+If you've already made a game_,_ post a video playing your game to completion (minimum 30 seconds) on your device to <#C02UN35M7LG|>!
+
+Peep the site at <http://sprig-drop.hackclub.com|sprig-drop.hackclub.com> :eyes_shaking:
+
+_THAT'S NOT ALL._ You think I'm gonna waste my first ever announcement on just a case drop?
+
+:ultrafastparrot:*SPRIGATHONS!*:ultrafastparrot: 
+On *DEC 18 @7pm EST*, <@U03UBRVG2MS>, myself (SHAWN :shawn_leek:), and other Sprig celebrities (which are a thing apparently?) will be hosting our _first_ (of many!) SPRIGATHONS. If you've never made or finished your Sprig game, this is an awesome opportunity to ship! If you have shipped, but you can't get that beefy game working on the device, let's cry and try to solve that together :sad-cat-thumbs-up:. *Everyone is welcome. React with* :sprig-party: *if you’re down!*
+
+Curse the witch who hath cast a spell upon mine own web page! Curse the spirits who plague the invitation to this event of grandeur!
+
+The signup module on <https://haunted.hackclub.com> shattered into a million fragments in the cold October morning, leaving hackers destitute of mine own Haunted House.
+
+*If you already signed up, I'll need you to sign up again.* This time, I've added protections against that witch who may present themselves again.
+
+Until next time,
+Headless Horseman
+
+It is a dark and stormy night. The rain a dull background noise to the torrent of clickety-clackety coming from the RGB mechanical keyboard.
+
+*KNOCK KNOCK KNOCK*
+
+With a start you pause and look up at the room’s entrance to find an envelope shoved under the bare wood door. You step over to pick it up but find it heavier than a tombstone.
+
+---
+_“Dear Hackers,_
+_You may not know me from the realm of the living, but we’ve been on a train before, spent 3 days hacking in San Francisco, partied together in Delhi on New Year’s, and hacked in the forest of Vermont. We will meet soon, once again, in the flesh._
+
+:jack_o_lantern: _*I need a home*. A dwelling. A mansion with the energy to house my ethereal essence._
+
+:boogie-skeleton: _*You will be the architects of my eerie abode.* A mansion built by the craziest few, for the scariest few. You’ll be making me a virtual haunted house. A starting page is provided, which will link to another website, which links to another, and so forth. How spine-tingling will it be? Your combined creativity will set the haunting tone._
+
+:chicago-bean: _If you’re in Chicago: Join me and 150 Hack Clubbers for our IRL event._
+
+:earth_americas: _If you’re not in Chicago: Host a satellite event! Or a mini-meetup with your friends! I can bring along my spectral companions that can stay in all the haunted houses you build. Join <#C05V7QGTMAT|>, and we’ll help you get started._
+
+:handshake: _We’ll meet from October 28-29. You’ll find more info on <http://haunted.hackclub.com|haunted.hackclub.com>_” and <#C05V7QGTMAT|>
+
+Sep 22 marked the official start of the 100-day countdown to the end of 2023, and we're going out with a bang. We've been asking ourselves over in <#C05RQPBJTNW|>: Who do I want to be by the end of the year? What do I want to have tried, accomplished, or practiced? What fun, hacky projects haven't I built yet?
+
+<#C05RQPBJTNW|> is a bunch of Hack Clubbers's collective efforts to turn those goals into reality, especially the fun, hacky ones!
+
+Over the last 5 days, we had a whole ton of people post their shopping lists :shopping_bags: in <#C05RQPBJTNW|> - lists of things they want to do during these 95 days. We've seen some amazing ones: <@U01PJ08PR7S> is working on building a programming language that can be compiled to WASM; <@U05G3RS5L1F> is working on finishing his OS;  <@U04BBP8H9FA> is working on making an animated short film; <@U04KEK4TS72>'s trying to write a novel in a month; and many people are running hackathons, from <#C04JNDSMXKP|> to a Dallas <#C05T8E9GY64|> to <#C05HMBL1RD0|>! (And we also have some mundane, but surely still ambitious ones: <@USNPNJXNX>, for one, is trying to survive college.)
+
+*Haven't made one yet? Now is the time to do so, while we're on day #95!* _Imagine what cool stuff you're going to do. What about learning to draw with Procreate? French? Learning Rust?_ You got this. :superhero:
+
+The rules are being built as we go, so come over-engineer this with us in <#C05RQPBJTNW|>. (Featuring: the Duolingo owl :angry-duo: chasing you down for your updates???)
+
+I am very excited to announce that on *Friday, October 6th*, we will be hosting Alec Watson from the hit YouTube channel <https://www.youtube.com/@TechnologyConnections|Technology Connections> for an AMA!
+
+I met Alec at Thinkercon earlier this year, and right away I was _pretty sure_ he’s one of us, but then I became _absolutely certain_ of that about an hour into a hilariously detailed explanation of electromechanical pinball machines. So I asked him to come hang out here for a bit, he said yes, and here we are. If you’ve never seen his videos… well, you’re missing out, and you owe it to yourself to find out why a 32-minute video about <https://www.youtube.com/watch?v=_rBO8neWw04|dishwashers> went wildly viral!
+
+Alec will join us on *Friday, October 6th at 8pm Eastern Time* for an hour on zoom hosted by <@U03RU99SGKA> and <@U0162MDUP7C>. Please show him the best parts of Hack Club by coming with thoughtful, creative questions. Join us in <#C03QPB0SU3V|> to help us prepare, and react here with a :white_check_mark: to RSVP so we know to send you the zoom link when the time comes!
+
+_Why did the Orpheus cross the road?_ :orpheus:
+_So she could get pizza for her club of course!_ :orpheus-pop::pizza:
+
+*Announcing the* <http://hackclub.com/pizza|Pizza Fund>*!* 
+
+:githubparrot: *GitHub is providing $100 pizza grants to help teens around the world start Hack Clubs at their high schools.*
+
+*What's the Pizza Fund?*
+• $100 fund for you to buy pizza for your club
+• You decide where to get the pizza from, the type of pizza, when to get it, etc
+*How do I get the Pizza Fund?*
+1. :triangular_flag_on_post:<https://hackclub.com/clubs/| Start A Hack Club> 
+2. :male-artist: Draw A Pizza In <#C05RZ6K7RS5|> (&amp; upload pizza in <#C016DEDUL87|>) 
+3. :admission_tickets: Get Your Virtual HCB card _(&amp; a little surprise)_
+4. :luke-carry-pizza: Order Pizza For Your Club Meetings! 
+*What's next?*
+:pizzanomnom: Join <#C05RZ6K7RS5|> &amp; dive into some delicious club meets this fall! Happy Hack Clubbing
+
+(p.s. Organizing a hackathon or social event? Take some <https://www.figma.com/file/8RqXEeINcZqsJLGTu3fhua/Pizza-Flyer?type=design&amp;node-id=0%3A1&amp;mode=design&amp;t=z88FZF3T330ch5sz-1|cool pizza flyers> :scroll: by <@U016S3C7JS2>, <@U045B4BQ2T0>, and I. We can also mail you some flyers asap just send a dm)
+
+*See More Info In Thread*
+
+Pilgrims, I come to you a broken man. Nine days I lived out there, in the sun, baked to a crisp like the little potato piggy I am. My crew left me stranded without my boat. The barge I called home tried to sink from a massive leak. A man with a live chicken on his head launched me into the water from a pneumatic catapult. It was terrible, and awesome. And damp. Gather round, pilgrims, for a story that ends with a call for your help.
+
+…or actually, don’t. Not here anyway. If you want to know the long (but true) story of how we got here, go join me in <#C02AWNTDXUH|>. For this announcement I’ll cut to the chase:
+
+*Hack Club needs a navy.*
+
+We need hundreds of vessels built from scrap and gumption by teenage hackers all around the world. I don’t know how we’re going to do it exactly. Maybe a contest? Or a grant program? I’m not sure. Here’s what I’m sure of though:
+
+*Navies need flags.*
+
+In about 2 months a crew of hackers will drive a floating bouncy castle into the water outside <https://makerfaire.com|Maker Faire>. As we speak, we are gathering teenagers to engineer systems for electric propulsion, solar power, and remote control in <#C05N8L804KW|>. Why? Because the bouncy castle is the flagship of the Hack Club Naval Armada. And a flagship needs a flag. Therefore:
+
+*Hack Club needs a flag referendum.*
+
+It worked for <https://en.wikipedia.org/wiki/2015%E2%80%932016_New_Zealand_flag_referendums|New Zealand>. And the <https://podpedia.miraheze.org/wiki/Hello_Internet_flag_referendum|Hello Internet> guys. Join us in <#C05MQDSPASH|> today to rally support for your design and deliberate over our beloved future flag. The winner will fly from the floating bouncy castle at Maker Faire, from the flagpole at HQ, and eventually from every vessel in our nascent global armada.
+
+*The flag vote begins on September 18th, so submit your design ASAP!*
+
+Let’s hop to it, pilgrims.
+—cwalker
+
+*To kick off the school year, we have completely revised Hack Club’s workshops. Jams are Hack Club’s new series of coding workshops you can do in under an hour - by yourself or in a club. There are 18 right now—from web dev to AI to game design—with more being released this semester, all built by teenagers for teenagers.*
+
+*Jams help you build coding projects!* They are:
+
+• :blueberries: *Flavorful:* Every Hack Clubber gets to customize the end product of their Jam both visually and technically
+• :strawberry: *Universal:* Regardless of platform (:apple: /:robot_face:/:google:), Jams “just work” on any computer!
+• :grapes: *Nutrient-Rich*™*:* Jams come with all the resources (presentations, posters, handouts, etc) for your club
+*What can I build with Jams?* You could:
+
+• <https://jams.hackclub.com/jam/3d-club-village|Create Your Own 3D Village> in <@U01R8RSGYUV>’s Jam (using Spline) :house_buildings:
+• <https://jams.hackclub.com/jam/voxel-animation|Create Your Own LoFi Mix + Animation> in <@U04FMKCVASJ>’s Jam (using Three.js) :jammin-tomato:
+• <https://jams.hackclub.com/jam/story-game|Create Your Own Adventure Game> in <@U05E5U2D91P>’s Jam (in Python) :world_map:
+• <https://jams.hackclub.com/jam/ai-travel|Create Your AI Travel Planner> in <@U029D5FG8EN>’s Jam (using OpenAI’s API) :openai:
+• <https://jams.hackclub.com/batch/artificial-intelligence|Create Your Own AI Voice Companion> in <@U03RU99SGKA>’s Jam (using HTML, CSS, and JavaScript) :openai:
+There’s so much more! Check out <http://jams.hackclub.com|jams.hackclub.com> for the complete list ;)
+
+*How do I ‘Jam’?*
+
+1. Join <#C058T2CJUNR|>
+2. Run a Jam with your club or with your friends
+3. Join this Friday’s Jam Night and help test out the new content! (RSVP below)
+*What’s Next?*
+*RSVP for a Jams Night THIS FRIDAY* (try Jams and build a project in 1 hour)
+• Respond with :catjam: for a Jams Night Happening at 8:00 PM ET / 5:00 PM PT, this Friday 
+• Respond with :jammin-tomato: for a Jams Night happening 10:00 AM ET / 7:00 AM PT / 7:30 PM IST, this Friday
+*Jams Site* :arrow_right: <http://jams.hackclub.com|jams.hackclub.com>
+
+The <http://workshops.hackclub.com|workshops.hackclub.com> site will remain online &amp; archived
+
+:robot_face::scream_cat: *AI SAFETY FOR FLESHY HUMANS* :scream_cat::robot_face:
+
+*Problem:* Folks wanna know about AI's risk, but there exists ~zero explainers that are accurate _and_ accessible _and_ comprehensive (_and_ fun?)
+
+*Solution:* A fun, 3-part “one-stop shop” piece like <https://github.com/hackclub/some-assembly-required|Some Assembly Required>, but for AI and its risks, written by Nicky Case &amp; Hack Club, of course! There’s also comics about a Robot Cat Maid!
+
+*We are:*
+• <@UR6P49Q79> (<https://kognise.dev/|Lexi Mattick>) 17 y/o Hack Clubber, author of <https://cpu.land|cpu.land>, a co-author of <https://www.redwoodresearch.org/research|an AI Safety tool>
+• Me (<https://ncase.me|Nicky Case>) maker of learn-y web toys like <https://ncase.me/trust/|The Evolution of Trust> &amp; <https://ncase.me/anxiety/|Adventures with Anxiety>. (I also made a popular Flash game called :<https://www.youtube.com/watch?v=fCb_5PbsiJA|the game>: when I was 13 but I want to forget that part of my past, thx)
+• Kara (<@U032A2PMSE9>), whip-master, to keep me &amp; Lexi on track. Our Trello burndown chart is _not_ happy with us.
+_AI Safety for Fleshy Humans_ has been on-and-off in the works for 7 months. I’m excited to work with Lexi, Kara, and y'all other HC’ers to finally ship this thing together!
+
+*From what kind of reviewer, what kind of feedback we need:*
+1) Folks who know nothing at all about AI Safety → feedback to make sure it's _accessible_ and _fun_.
+2) Folks who know somewhat about AI Safety → feedback to make sure _it covers the main questions &amp; curiosities you have_.
+3) Domain-experts → feedback to make sure it’s _accurate_ and _comprehensive (enough)._
+
+Part I will _hooooopefully_ be ready to be reviewed by *July 21 Friday?*
+
+If you’re interested in giving feedback, or lurking along, join us in the channel!
+
+:point_right: <#C05HMS8N09E|> :point_left:
+
+See you there,
+~ Nicky Case
+
+*Calling all Hackers: Join the <https://www.youtube.com/watch?v=4s6p85itCLA|Jam Factory> and help us build the future of Hack Club Meetings!*
+
+:fallen_leaf: This Summer, we're doing a full revamp of <http://workshops.hackclub.com|workshops.hackclub.com> and need your help, so *we're bring back the workshop bounty!!!* :pogfish:
+
+:grapes: Workshops are now called Jams! A ~grape~ great _Jam_ is a type of workshop that helps Hack Clubbers build a real project in under an hour and where the outcome differs each time you use the Jam.
+
+:moneybag:*Get paid $200* to build a :blueberries: *Jam* :strawberry: which will be used by thousands of Hack Clubbers in their club meets this fall! We're looking for 20 high quality Jams :som-multiple-dashes-:
+
+*SUBMIT YOUR PROPOSALLLL ASAPPPP*  :arrow_right: *<https://github.com/hackclub/Jams>* and join us in <#C058T2CJUNR|>
+
+_(p.s. due to Bank restrictions we cannot offer payment for Jams to Hack Clubbers based in India. Sorry_ :sadge:_)_
+
+We’ve found the place, now it’s time to create the space.
+
+For those who haven’t heard, this summer, us Hack Clubbers are going on a camping adventure in the Northeast Kingdom of Vermont, and sign ups open today! We hope that you can join us and make this the most meaningful weekend of the year.
+
+*On July 28th, we’ll gather in Cabot, Vermont to begin our grand experiment - creating a hacker oasis.* For four days and three nights, we’ll turn a humble campground; Covenant Hills Campground, into an awesome space for hackers of all kinds.
+
+*You choose your own adventure.* Want to make stupid shit nobody needs? There’ll be a hackathon of sorts. Want to learn Rust? Check out <#C057ZQL8XKL|> Want to chat about why Error 418 is critical to the modern internet? Join <#C058JR94NJZ|> or grab a drink at the <#C058MNEP9MZ|> You name it, you’ll have the space to do it.
+
+At the end of the day, *your experience at Outernet will be defined by the things you build, the adventures you go on, and the friends you make.* Through guilds, we’ll come together to create the perfect environment for one another to make things. Contribute to a guild in <#C059CP1SM6C|> or start your own at <http://github.com/hackclub/outernet|github.com/hackclub/outernet>. And don’t forget, we at HQ always have a trick or two up our sleeves.
+
+*Head over to <http://outernet.hackclub.com|outernet.hackclub.com> to register and learn more;* as you sign up, think about how you can make the most of your time at Outernet. Let’s make this trip incredible!
+
+&gt; *We're getting OnBoarddddddd!*
+This Sunday @ 4 PM EST I'm hosting Office Hours with Kevin! If you have any questions about the <https://onboard.hackclub.com/|OnBoard >program, electrical design, or anything else hardware related, feel free to stop by! I'll also be going over how I designed my own <https://www.youtube.com/watch?v=GcNfgtPdHJM|LED ><https://www.instructables.com/LED-Volume-Bar/|music bar>, and how you can get started as well!
+
+React with :hardware: to RSVP! Can't wait to see you there!
+
+*When:* June 4th @ 4 PM EST
+*What:* PCB Design
+*Where:* Zoom (sent out through RSVP)
+
+&gt; :zach: ZRL: “Mannn…school just got out...summer is in session. I don’t know what to do. I’m bored–”
+&gt;  :leap: Orpheus Leap: *“_DID SOMEONE SAY ONBOARDD_????”*
+Today marks *the official launch of <https://onboard.hackclub.com/|OnBoard>:* a year long program giving students like you (yes YOU!) $*100 to design and build their first printed circuit board (PCB).*
+
+We want students from all backgrounds–be it programming, art, music, _cooking_–to have a chance to create the piece of technology that powers the world around us. Along this journey, we will show you how to make *NFC enabled business cards*, *a keyring for your friends*, and *stellar hackathon badges* for your events or clubs. You simply won’t be bored making these circuit boards.
+
+So, *how do you join in on the fun?* It’s simple!
+
+1. Create a design
+2. Submit a PR to our OnBoard <https://github.com/hackclub/OnBoard/tree/main|repo>
+3. Purchase your boards
+4. Celebrate!
+(Yes, it’s that simple!)
+
+Check out what’s brewing in the <#C056AMWSFKJ|> slack channel or what’s being merged on our <https://github.com/hackclub/OnBoard/tree/main|repo>.
+
+I can't wait to have you <https://onboard.hackclub.com/|OnBoard>!
+
+hey everyone!!
+
+want to learn to design <https://leap-site.hackclub.dev/|orpheus-shaped arduino boards>, <https://hackclub.slack.com/archives/C01504DCLVD/p1679529925978899|light-up macropads>, or <https://github.com/hackclub/assemble/blob/main/the-event/swag.md#pcb-badges-hugoyhu|pcb> <https://hackclub.slack.com/archives/C0266FRGV/p1679672536581109|hackathon> <https://hackclub.slack.com/archives/C01504DCLVD/p1683793555444729|swag>? i'm running a workshop on designing pcb business cards so you can learn the basics of pcb design!
+
+during winter hardware wonderland, i learned how to make pcbs (printed circuit boards), and designed my first pcb -- a business card that supports nfc! whw showed me that pcbs are not nearly as intimidating as i imagined, and that they're a fun combination of hardware, art, and code.
+
+the workshop will be tomorrow, *may 20*, at *1pm pt / 4pm et*, and it'll run for about an hour. don't worry if you can't make it -- it will be recorded and edited into a shorter tutorial for <#C056AMWSFKJ|>. see the video below for a demo of the card we'll be building; it transmits a url to the phone, while harvesting power from the phone to light up the led :sunny:
+
+react with :bongocat: to be pinged before it starts!
+
+Introducing Steve: the Hack Club apartment! :house_with_garden::deciduous_tree:
+
+So many people have been visiting Hack Club recently, we realized it would be cheaper to get a conveniently located apartment (where you don’t need a car) than put people in hotels. So we rented Steve! If you can get yourself to Vermont, we now have a free place for you to stay.
+
+Steve is right across the street from HQ in Shelburne, Vermont, and beautifully furnished with a living room, full kitchen, loft bedroom, and full bathroom. He’s also attached to the Tracy House (pictured), which HQ has desks in as well.
+
+This is an open invitation to every Hack Clubber in the world. Please come visit, stay in Steve, and work on Hack Club with us here in Vermont! Details on how to visit in thread.
+
+hey guys! :gamelab: do u love games? do you like love? maybe some nice game soundtracks? if so—i’m just poppin’ in to let y’all know *<http://sinerider.com|SINERIDER> PUBLIC BETA is OUT*! :sparkles::sinerider:
+
+yes. the moment we’ve been waiting more than a year for. *_check it out_ at <http://sinerider.com|sinerider.com> &amp; watch the <https://www.youtube.com/watch?v=35nDYoIwiA8|trailer>* :sparkling_heart:
+
+we just launched it today — feel free to check out the code on <https://github.com/hackclub/sinerider|github>, to <https://twitter.com/hackclub/status/1655564401280262144?s=20|retweet> &amp; like, etc. :) shoutout to to the entire <!subteam^S03KV80GVS6> team as well! (respond w/ the craziest in-game screenshots)
+
+also! on the topic of games! *SIGN UP FOR ANGELHACKS* :angel: *(a hip new 24-hr game jam) at <http://angelhacks.hackclub.com|angelhacks.hackclub.com>* — get ur friends and family ~(force them)~ to sign up. come to make games, puzzle hunts, vibey music, pixel art, and more! It’ll be in Boston May 27-28, but we also have satellite events in toronto, sf, and la. _please_ join <#C050R91GSF5|> if you’d like to help! :angelparrot:
+
+you guys have been so so so amazing, and it’s so cool to watch us squash the hundreds of github issues, add fun little details, and send out a gazillion emails in over the past few months. :heart_hands:
+
+over and out,
+clairebookworm :batman:
+
+hey everyone!! <@U036N1SDEPQ> and I are _so_ so excited to announce a new ama. found. in the wild!!  :pokeball:
+
+this friday at 7pm ET, we’ll be talking with *Christina Entcheva who is currently the director of software engineering at github* :github: but has worn many hats in the past:
+• she’s worked as a *head of engineering / design / and etc*, at various places in the past, including thoughtbot (for you ruby fans :ruby:)
+• just like the ethos of hack club, *she cares a lot about mentoring and has worked to mentor formerly incarcerated people in coding/design/and engineering practices* as part of a super cool org called <https://emergentworks.org/|Emergent Works>
+• and she’s an *ARTIST*! :paintbrush: she’s <https://www.alfaart.org/our-artists/christina-entcheva/|had her art displayed> in exhibits before and she does a super cool mix of graphic design, paints, and prints, and also has done some resin and bleach art :wood: :respect:
+• (has amazing fashion sense?? she’s done some *work in fashion* as well too. yk. just in case she wasn’t cool enough already)
+• we met her in NYC at the <https://github.com/hackclub/horizon|horizon hackathon> and learned that *she cares a lot about tech ethics* and strives to encourage a *greater care and understanding* for it in the people around her
+Join us at 5 May at 4pm PT / 7pm ET, react with :github: to RSVP :) feel free to drop any links of her work in the thread that u find!
+
+hi! i’ve always been sorta unable to fully answer the question of “what exactly happens when i run a program on my computer?” i went down a bunch of rabbit holes and mostly figured out the answer, now i’m working on writing up the things i learned.
+
+i see this as sorta some-assembly-required-esque but with more emphasis on lower level things (and without jessicard’s fantastic charm)
+
+i have a first draft for the first two parts, out of probably 5. i would love feedback, technical nitpicks, ideas for illustrations, really whatever you wanna throw at me.
+
+i’ll make a channel at some point, but in the meantime please throw thoughts at me!
+here’s my progress so far -&gt; <https://kognise.dev/writing/you-in-cpu--delist>
+
+EDIT: channel created! <#C056D68BA1W|>
+
+*This summer.*
+Somewhere under the stars, USA.
+*<https://44.74.hackclub.com/|July 27-31> ~* <#C054FA87K8C|>.
+
+Hi everyone :hyper-dino-wave:
+
+This Sunday at 11am ET, we're turning our <https://place.hackclub.com/|pixel canvas> into a physical painting on an AMA with <https://bentritt.com/|Ben Trit> (founder of Artmatr) and<https://owentrueblood.com/| Owen Trueblood> who build machines to create art!
+
+I’m so excited to co-host this AMA with <@UR6P49Q79> — both Ben and Owen are working to solve the problem of transforming digital art onto canvases you can hang on the wall. Here are some cool projects you might want to check out!:
+• :butter-robot: _<https://hackaday.io/project/164468-crash|Crash>_ a robotic hand that mimics a painter’s and can be used to machine-mediate painting experiments.
+• :yarn: A<https://hackaday.io/project/184058-robotic-tufting-system| hacked tufting gun mounted> on a robot arm to make CNC textile art!
+• :printer: <https://www.brycebot.com/inkjetpainting|The printing robot>, which uses InkJet style printing to create art
+And some other projects Owen’s worked on:<https://hackaday.io/project/27599-hindsight| repurposing Snapchat Spectacles>  (remember those??) and creating a<https://hackaday.io/project/1321-keychange%5C| custom keyboard> for VR — I love how hacky these inventions (<https://archive.owentrueblood.com/|and so many more>) are.
+
+*We need your help: leave your mark on this r/place style canvas<https://place.hackclub.com/| here> and Ben and Owen will use one of their machines to draw it during the AMA!*
+
+So go ahead and join us this Sunday, April 16th at 8am PT / 11am ET / 8:30pm IST! RSVP for the AMA by reacting with :art:
+
+Hi everyone! My name is Conrad and I’m excited to be joining the Hack Club community. I am going to be sharing a new project with you all today :smile:
+
+We’re calling it <https://github.com/hackclub/burrow|burrow> for now, and it is a tool to help you burrow through firewalls. I think internet access is pretty important for learning and it’s ironic that schools block websites like Github or Hack Club. I want to build a free VPN that students can use to get around the blocks.
+
+I’m going to be kicking off the project in our weekly meeting, *tonight at 9 PM EST*. _Respond_ (not react) to this message to get a personal reminder. We will also post the link in <#C052HA0NE4T|> when the call starts!
+
+The iPhone came out when I was in high school, and I immediately wanted to build software for it, even though I didn’t know how. I tried reading a <https://www.oreilly.com/library/view/programming-in-objective-c/9780133756937/|book> on how to program, but it was boring and I couldn’t get through the first chapter. I opened Google, created a new project in Xcode, and got to work. I learn much better through trying and failing rather than reading.
+
+I wish I had Hack Club back when I was in high school, but it didn’t quite exist yet. At the time we only had “HS Hackers”, a Facebook group where I met <@U0266FRGP>. I did a lot of programming in high school – I built <https://www.youtube.com/watch?v=tFlWbAeNjjU&amp;t=5s|bouncy software>, worked on <https://techcrunch.com/2013/07/31/airbnb-mobile-app-update/|Airbnb’s iOS app>, <https://www.dropbox.com/s/5me6ymdj1yrr9yr/Vex.jpg?dl=0|built VEX robots>, and I went to lots of hackathons.
+
+I built an app called <https://www.workflow.is/|Workflow> at one of those <https://www.youtube.com/watch?v=ZB4W_ktMnGA|hackathons>, and I ended up and working on it full-time as a startup company after high school. We <https://www.macstories.net/stories/shortcuts-a-new-vision-for-siri-and-ios-automation/|sold> the company to Apple, and the app is now the <https://support.apple.com/guide/shortcuts/welcome/ios|Shortcuts> app built into every iPhone in the world. I managed part of the Shortcuts team at Apple for a few years, so I can likely answer any Apple questions you might have :stuck_out_tongue:
+
+I live in Boston and for most of the week I do research on how software can help deploy renewable energy faster :sunny:. Every Monday, however, I’m going to be holding office hours for Burrow over in <#C052HA0NE4T|> If you’re curious to learn more about iOS programming :iphone: or networking :internetexplorer:, consider joining!
+
+hey everyone!! it’s claire here :) *hack club and the angelhacks team* are excited to announce _*angelhacks 3.0*_ :angelparrot:, the :spring-of-making: *official hack club spring event* :spring-of-making:, which we plan to have in late-may in the Boston area, with 3 satellite events across the globe (we’re thinking smth along the lines of choosing between 12 / 24 hr track, but not sure yet)!! for those who have heard of angelhacks, we promise to keep the vibes of angelhacks 1.0 &amp; 2.0 combine with the magic and community of hack club &lt;3. for those who haven’t heard of us, check out our <https://www.angelhacks.org/|website>, our <https://www.youtube.com/watch?v=rv_UycMxEsQ|1.0 (in-person at snap hq) recap>, and our 2.0's (which was online w/ &gt;1k attendees) <https://www.youtube.com/@angelhacks5695|workshop videos>!!
+
+but!! a *twist*. :twinsparrot: this will be _entirely_ a *game jam*, which means you’re ONLY allowed to make games - video games, board games, puzzle hunts, vr games, ARGs… all are game (hehe get it). this means our audience will not just be coders, but also artists, designers, musicians, storytellers, gamers… and beginners are welcome :) :gamelab: :video_game: :salute-hungergames:
+
+some more things that will be super fun (and experimental??):
+
+• :building_construction: the flagship event will be in-person in Boston in late May for 100+ people
+• :satellite: inspired by <#C044SRZR8MB|> (+ <#C04AKL9UKEY|>, <#C04BX4F6HGE|>, <#C04CGDDLC72|>), we will have 3+ satellite events running concurrently in other locations (and making funding available for them). we’re generally thinking 2 in the US and 1 outside of the US, maybe europe?? we’re also buying clubs that meet up to build things pizza! 
+• :public-channel: we’re organizing the *event entirely open source* in <#C050R91GSF5|> :) please join and get involved. we need more people on the core team, and people to step up to run satellite events!
+• :sushi-idea: we’re still just getting started, so if you have ANY ideas please feel free to share, talk about them, etc.
+please join me and the team in <#C050R91GSF5|> to help make this happen and let’s make _*angelhacks 3.0*_ :angelparrot: unforgettable! no, like actually, join the channel. spam it, idk. :heart_hands:
+
+The dark winter night envelops us as we hunch over our computer screens, eyes fixed on lines of code that blur together as the night wears on. There is a palpable sense of excitement in the air — rumours have been circulating in the hacking community for days, and tonight, it seems that they are about to be confirmed.
+
+Alongside my fellow hacker <@U01FAVARYH1>, I am thrilled to announce that we’ll be sitting down with Zach Latta, Hack Club's founder, for an AMA. Join us in chatting with him about our collective Hack Club future: how do we fit in the world?
+
+But this AMA is not just about Hack Club — we’ll also get to know Zach. Some random facts:
+• At 16, he tested out of high school to lead the engineering team at Yo at their peak :meow_code:
+• He built an <https://hackclub.slack.com/archives/C0M8PUPU6/p1571696060295100|exploding computer> at a hackathon :boom:
+• He once had a 403 days GitHub streak :github:
+• Now, he builds mostly in Go and creates lots of open source tools :gopher:
+Join us to chat with Zach Latta on March 31st at 11am ET / 8:30 pm IST. To RSVP, react with :zach:!
+
+With each passing day, the anticipation only grows, the secrets that will be revealed, the wisdom that will be shared. Will you be there to witness it all?
+
+When I first started coding in high school it was an incredible eye opening experience. It leveled the playing field because I could use the same tools and frameworks as professionals, and didn’t have to get through barriers like classes and textbooks. It gave me what I couldn’t get in my high school life- the immediacy that only the internet could provide.
+
+I’ve always wanted to experience going out of my comfort zone and forcing myself to work on projects in the physical world, so this year I started working on electronics projects.
+
+Over the past 10 days, hundreds of us have done that. Across 32 countries, 248 projects, and over 1k scrapbook posts.
+
+Now let’s celebrate all this making/building/doing by holding our own *Ship Showcase*. _*It’ll run at 11pm eastern on Saturday*_. <https://events.hackclub.com/whw-ship-showcase-/|Event details>. React with :ship: to RSVP &amp; if you built a project, let us know: <https://airtable.com/shrqpJlNNLjrlDlvu>
+
+*If you didn’t make a project, you’re still invited.* Hackers will be showing off all sorts of whacky &amp; wild projects they built in the physical world.
+
+I hope these projects are as inspiring for you as they are for me to see. Please join in and watch if you want to see what everyone built.
+
+Hey all! Today is Feb 14th, a very special day for us all… :two_hearts:
+
+Today is a day for you to celebrate that very special significant other in your life– _*you and your personal projects*_
+
+:snowing::snowing::snowing::snowing::snowing::snowing::snowing::snowing:
+_*Let’s get this party started*_
+:blank: :dance: == :dance1: == :dance2:
+
+I just made my first post in <#C01504DCLVD|>:aussie-scrappy: for 10 days of making / learning / doing in <#C0168BR5PDE|>:gear:! You’re invited to join in while working on your own project– *you don’t need to have a grant to participate.* You can even work on a non-hardware project! After the 10 days, we’ll have a celebration call for everyone who participates. Everyone is invited to celebrate everyone’s wins, even if you didn’t make it all 10 days. Anyone who works on a project and posts a meaningful project update each day will get stickers to commemorate the event!
+
+In <#C0168BR5PDE|>, we’ll have community calls, hack nights :hacknight:, drawing games, and a whole lot of other party activities running in parallel to everyone’s work being shown off in <#C01504DCLVD|>.
+
+_P.S. If you want to check it out, here’s my first post: <https://hackclub.slack.com/archives/C01504DCLVD/p1676410548742119>_
+
+Hey all!
+
+I’m so excited to share that <@U026XSMKEDC> and I are hosting an AMA with David Malan, the famous Harvard CS50’s professor  and  next Friday, Feb 10 at 7 pm ET (convert to your time <https://time.cs50.io/20230210T2100-0300?title=Hack+Club+AMA+w%2FDavid+Malan|here>)!
+
+We love CS50 (though did you really finish it :eyes:?), and how David uses super fun demonstrations (ripping apart phone books, binary bulbs, and of course, debugging ducks :cs50-duck:) to teach programming concepts, so we’re super excited for a chance to chat with him!
+
+We're counting on your presence… so be sure to RSVP by reacting to this message with :cs50-duck:!
+
+Never heard of David Malan? Here are some fun facts about him:
+• He teaches CS50,  the largest open-learning course at Harvard University and Yale University and the largest Massive Open Online Course (MOOC) at EdX
+• CS50 is filmed with multiple cameras to make the online experience as good or better than in person.
+• Almost 4 million students have taken his EdX version of CS50
+• Malan gives students free  ‘I TOOK CS50’ stress balls and t-shirts and they are collectors items!
+• He also spends part of his time with GitHub as a Professor in Residence :github:
+Learn more: <https://cs.harvard.edu/malan/> and check out CS50: <https://cs50.harvard.edu/x/2023/>
+
+See you next Friday, react with :cs50-duck: to join us :slightly_smiling_face:
+
+Hey, y'all! :rocket:
+<@U014E8132DB> and I are excited to host this Saturday's AMA on *Jan 21st at 10am EST, 3pm UTC, 8:30pm IST with David Heinemeier Hansson (DHH)*, the creator of Ruby on Rails and CTO of Basecamp!
+
+We’re hackin' excited to have you join us... so be sure to RSVP by reacting to this message with :railss:.
+
+Never heard of DHH? Here’s why I think  he's one of the most badass developers in tech, so you can come prepared with some amazing questions:
+
+• He's the *creator of Ruby on Rails*, the essential open-source web framework that GitHub, Twitch, Hack Club Bank, and more run on! :bank-hackclub:
+• He's the *CTO of Basecamp*, a company known for its innovative approach to project management and remote work. :briefcase:
+• He didn’t have a driver’s license until age 25, but then years later *won the famous 24-hour endurance sports car race Le Mans* :racing_car:
+• He believes coding skills relate to all parts of life, including racing cars
+• He's an *advocate for "indie" software development* and has written several books on the topic, including "Rework" and "It Doesn't Have to be Crazy at Work." :books:
+Check out DHH’s bio to learn more: <https://dhh.dk/>
+
+See you next Saturday, react :railss: to join us!
+
+...... dinobox
+
+(26's representatives in Delhi)
