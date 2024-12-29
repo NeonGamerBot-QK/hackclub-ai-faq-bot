@@ -10,7 +10,7 @@ const blocked_users: string[] = [
   // prompt injection king
   "U078XLAFNMQ",
   // continued after warning
-  "U07GSGF3Y1L"
+  "U07GSGF3Y1L",
 ];
 const ai = new openai({
   apiKey: process.env["OPENAI_API_KEY"], // This is the default and can be omitted
