@@ -7,8 +7,6 @@ const watching_users: string[] = [];
 const blocked_users: string[] = [
   // really weird requests and some sexual content
   "U07TK86UTDK",
-  // prompt injection king
-  "U078XLAFNMQ",
   // continued after warning
   "U07GSGF3Y1L",
 ];
