@@ -1260,3 +1260,50 @@ See you next Saturday, react :railss: to join us!
 ...... dinobox
 
 (26's representatives in Delhi)
+
+Welcome back to #happenings, the weekly newsletter which is now 10 weeks old! Enjoy this double-digit edition :).
+:scrapyard: Scrapyard :hackathon:
+Scrapyard is Hack Club’s next worldwide hackathon where you build stupid stuff and get stupid prizes! Think of the most unneeded, useless, pointless inventions possible for equally ridiculous prizes. Scrapyard is beginner-friendly and open to all high schoolers who want to have fun, make stuff, and meet fellow hackers!
+Sign up like right now! Start organizing your team for your city, reach out to sponsors, and lock in a venue. For more info and to sign up (do it!), click here. Join #scrapyard for updates as well :D.
+What's happening and when?
+February 15th: The main flagship Scrapyard event in LA for 150 hackers. Travel stipend information coming soon!
+March 15th: Scrapyard events worldwide begin, organized by Hack Clubbers like you.
+:package: YSWS (You Ship We Ship) Events
+#saycheese: You ship a program inside a QR code (yes, a QR code! :qr-code:), we ship a portable printer to spread your code everywhere! Ends on January 26th, learn more here.
+#raspapi: You ship an original API, we ship a Raspberry Pi Zero 2 W to host the API! Learn more here.
+:pirateparrot::doubloon: Here from #high-seas? Check out some epic channels/projects!
+Hack Club is an awesome place with an amazing community! I encourage you to check out some channels and explore beyond High Seas, there's some cool stuff here :D. Learn more about people in their personal channels, channels people use to talk about themselves and stuff. Find some in #neighbourhood!
+#mystic-tavern-organizers: Mystic Tavern is an event where you get to meet up with other Hack Clubbers near you :tm:! Join as a captain and run an awesome Tavern in your city, or join a Tavern and meet new people! Learn more here, and get sailing into the High Seas!
+Not sure how to use Slack? Check out a guide here!
+:rac_woah: Cool Stuff
+#free-subdomains: Yoink a nice subdomain to host your next web project :D
+#orpheus-pico-bts: Check out a cool Hack Club Orpheus-themed pico! Oh and did I mention it's better than a regular pico? Find some in the High Seas shop :D. Learn more about this cool project here.
+:yay: Events
+Check out some awesome community-run events at #special-activities-division! Learn how to build a website, make a Slack bot, play bedwars, etc. If you want to run your own event (do it!), DM 
+@eesha
+. Go run an amazing event, I need stuff to put here :D.
+Upcoming events (Click on the hyperlink for more info and for the time in your timezone):
+Jan 17: Paper-io.com
+Feb 1: Python GUI Workshop
+Feb 4: Chess Tourament
+For times in your time zone and to see new events, check out events.hackclub.com!
+
+:scrapyard: Scrapyard :hackathon:
+Scrapyard is Hack Club’s next worldwide hackathon where you build stupid stuff and get stupid prizes! Think of the most unneeded, useless, pointless inventions possible for equally ridiculous prizes. Scrapyard is beginner-friendly and open to all high schoolers who want to have fun, make stuff, and meet fellow hackers!
+Sign up like right now! Start organizing your team for your city, reach out to sponsors, and lock in a venue. For more info and to sign up (do it!), click here. Join #scrapyard for updates as well :D.
+What's happening and when?
+February 15th: The main flagship Scrapyard event in LA for 150 hackers. Travel stipend information coming soon!
+March 15th: Scrapyard events around the world begin, organized by Hack Clubbers like you.
+:package: YSWS (You Ship We Ship) Events
+#hacky-holidays: You ship a holiday decoration PCB through onBoard, we ship that decoration you made! Quick, the holiday PCB season ends on Jan 20! Check it out here.
+#raspapi: You ship an original API, we ship a Raspberry Pi Zero 2 W to host the API! Learn more here.
+#hackapet: You ship a pet game, we ship a hackable Tamagotchi clone! Wave 1 ends January 31st. Learn more here.
+:pirateparrot::doubloon: Here from #high-seas? Check out some epic channels/projects!
+#ship: People make and share some epic ships here :D! From slack bots which tell you if a slack bot is down (what if that slack bot goes down? :thinkies:) to literally Minecraft in 2D. Check out some and post yours!
+#scrapbook: Show off the cool stuff you've been working on! Post scraps and get a nice scrapbook generated for you :D
+#design: Check out some cool designs, ask for UI help, post cool stickers, and whatever else designers craft in their basements :pf:.
+Not sure how to use Slack? Check out a guide here!
+:rac_woah: Cool Stuff
+#bounty: Help contribute to Hack Club by contributing through open source! Find posts for things you can do and help make Hack Club the amazing place it is.
+#free-stuff: I kid you not, it's literally free stuff! Find things ranging from stuff people are getting rid of to free codes :).
+
